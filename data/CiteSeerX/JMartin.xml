@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>J Martin</FullName>
+	<publication>
+		<authors>J Martin,James L Crowley</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Augustin Lux,Christophe Le Gal,James L Crowley</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Daniela Hall,James L Crowley</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>J Martin,James L Crowley,Olivier Chomat</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Ram&oacute,n Puigjaner</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Carlos Juiz,Nunzio Nicol&oacute,Savino V&aacute,zquez</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Didier Boudigue,Georges Gardarin,Jos&eacute,Antonio Corbacho,Nunzio Nicol&oacute,Savino V&aacute,zquez,Ram&oacute,n Puigjaner,Sophie Dumas</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Jos&eacute,Antonio Corbacho,Nunzio Nicol&oacute,Savino V&aacute,zquez,Ram&oacute,n Puigjaner</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Chris Lankester</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Alain D&eacute,silets,Berry de Bruijn</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Dominique B&eacute,roule,R Veldman</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Dominique B&eacute,roule</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Adam Cheyer,Luc Julia</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Peter H Welch</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Daniel M Dias,David C Sadler,Jamshed H Mirza,Marc Snir,Tilak Agerwala</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Daniel M Dias,David C Sadler,Jamshed H Mirza,Marc Snir,Tilak Agerwala</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Ferenc A Jolesz,Guido Gerig,Martha Elizabeth Shenton,Olaf K&uuml,bler,Ron Kikinis</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Alex Pentland,Ron Kikinis,Stan Sclaroff</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Court Sansom,Debbie Durant,Henry Moeller,Jim Osborn,Virginia Redmond</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Jan Eveleth,Linda J Hutchison,Priscilla Huston,Susan Calcari</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Benjamin G Zorn,Brad Calder,Dirk Grunwald,Donald C Lindsay,Michael Mozer</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Benjamin G Zorn,Brad Calder,Dirk Grunwald,Donald C Lindsay,Michael Jones,Michael Mozer</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>J Martin,David N Chin,Dekai Wu,James Mayfield,Marc Luria,Robert Wilensky</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Carl H Block,David E Monarchi,Megan R MacMillan</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Keith Vander Linden</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>J Martin,David N Chin,Dekai Wu,James Mayfield,Marc Luria,Robert Wilensky</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Keith Vander Linden,Susanna Cumming</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Dan Fass,Elizabeth A Hinkelman</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Bruce Kwan,Mario Gerla,Prasasth Palnati,Rajive Bagrodia,Simon Walton,Yu-an Chen</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Rajive Bagrodia,Sonia Furman</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Aifeng Ren,Mineo Takai,Rajive Bagrodia</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Mineo Takai,Rajive Bagrodia</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Ha Yoon Song,Mineo Takai,Rajive Bagrodia,Richard A Meyer,Xiang Zeng,Yu-an Chen</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Rajive Bagrodia</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Rajive Bagrodia,Richard A Meyer</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Kaixin Xu,Mineo Takai,Rajive Bagrodia</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Andrea L Mox,John Major,Marlene R Pratto,Martie Skinner,Robert Minato</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Jonathan Thyer,Marlene R Pratto,Martie Skinner</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Andrea L Mox,John Major,Marlene R Pratto,Martie Skinner,Robert Minato</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Andrea L Mox,John Major,Marlene R Pratto,Martie Skinner,Robert Minato</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Andrea Mox,John Major,Marlene Pratto,Martie Skinner,Robert Minato</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Martie Skinner</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Lorenzo Alvisi,Michael Dahlin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Lorenzo Alvisi,Michael Dahlin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Don S Batory,Roberto E Lopez-Herrejon</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>J-P Martin,L Alvisi,M Dahlin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>J-P Martin,L Alvisi,M Dahlin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>J-P Martin,L Alvisi,M Dahlin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Arun Venkataramani,Jian Yin,Lorenzo Alvisi,Michael Dahlin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>J-P Martin,L Alvisi,M Dahlin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Arun Venkataramani,Jian Yin,Lorenzo Alvisi,Michael Dahlin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>J-P Martin,L Alvisi,M Dahlin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>J Yin,J-P Martin,A Venkataramani,L Alvisi,M Dahlin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>J Yin,A Venkataramani,J-P Martin,L Alvisi,M Dahlin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Jian Yin,Jean-Philippe Martin,Arun Venkataramani,Lorenzo Alvisi,Mike Dahlin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Johannes Martin,Hausi Müller D</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Ludger Martin,Anke Giesl,Johannes Martin</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Ludger Martin,Anke Giesl,Johannes Martin</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Bruce Winter,Hausi A M&uuml,ller,Kenny Wong</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Johannes Martin,Ludger Martin</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Johannes Martin,Kenny Wong,Bruce Winter,Hausi Müller</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Johannes Martin,Ludger Martin</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Johannes Martin,Hausi Müller</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>P Devanbu,Y-F Chen,E Gansner,H Müller,J Martin</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Emden R Gansner,Hausi A M&uuml,ller,Premkumar T Devanbu,Yih-Farn Chen</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Anke Giesl,Ludger Martin</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Holger M Kienle,Anke Weber,Johannes Martin,Hausi A Müller</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Kostas Kontogiannis,Johannes Martin,Kenny Wong,Richard Gregory,Hausi Müller,John Mylopoulos</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Hausi A M&uuml,ller</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Hausi A M&uuml,ller</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Johannes Martin,Hausi Müller</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Johannes Martin,Hausi Müller</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>J Martin,A Alzaga</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>J Martin,G Mayor,Joan Torrens</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>J Martin,G Mayor</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>J Martin,G Mayor,Joan Torrens,Tomasa Calvo</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Dorrit O Billman</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>J Martin</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Dorrit O Billman</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Arne A Nilsson,Injong Rhee</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Arne A Nilsson</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Arne A Nilsson,Injong Rhee</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>J Martin,Arne A Nilsson</authors>
+		<label>9</label>
+	</publication>
+</person>

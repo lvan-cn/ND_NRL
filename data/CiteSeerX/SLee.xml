@@ -1,0 +1,5860 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>S Lee</FullName>
+	<publication>
+		<authors>S Lee,In Kyu Park,Sang Wook Lee</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong-Gyu Sim,Ihn-Cheol Kim,Rae-Hong Park,Rin-Chul Kim</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,In Kyu Park,Kyoung Mu Lee</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Il Dong Yun,In Kyu Park</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chang-Su Kim,Seung Hwan Kim</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chang-Su Kim,Rin-Chul Kim</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong-Gyu Sim,Ihn-Cheol Kim,Rae-Hong Park,Rin-Chul Kim</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byeong Hwan Jeon,Kyung Mu Lee</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Choon Soo Park,Jongchul Ye</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yong Kwan Kim</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kiho Kim,Nam Ik Cho</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Nam Ik Cho,Yoon Gi Yang</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,In Kyu Park,Kyoung Mu Lee</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,In Kyu Park</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ja Seong Ku,Kyoung Mu Lee</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Eunjin Jung,Il Dong Yun</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hee Soo Yang</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chang-Su Kim,Rin-Chul Kim</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Il Dong Yun,Jeong Hee Kim</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Il Dong Yun,Inseo Han</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,In Kyu Park,Kyoung Mu Lee</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Tok Wang Ling</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Tok Wang Ling</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Tok Wang Ling</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hua-Gang Li,Tok Wang Ling</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Gillian Dobbie,Leonid A Kalinichenko,Mong-Li Lee,Tok Wang Ling</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bin Cui,Chuan-Heng Ang,Tok Wang Ling,ZhongWei Luo</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chuan-Heng Ang,Tok Wang Ling,Zheng Xuan Loh</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Mong-Li Lee,Tok Wang Ling</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Boon Tun Wee,Tok Wang Ling</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hua-Gang Li,Tok Wang Ling,Wai Chong Low,Zhong Wei Luo</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Tok Wang Ling</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Tok Wang Ling</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hua-Gang Li,Tok Wang Ling</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hua-Gang Li,Tok Wang Ling,Zheng Xuan Loh</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Tok Wang Ling</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Tok Wang Ling</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Tok Wang Ling</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Gillian Dobbie,Mong-Li Lee,Tok Wang Ling,Xiaoying Wu</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Pei Yuen Wong,Wai Lup Low</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Leonid A Kalinichenko,Mong-Li Lee,Tok Wang Ling</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chuan-Heng Ang,Tok Wang Ling,Zheng Xuan Loh</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H Kim,S -g Lee</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H Kim,S -g Lee</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H Kim,T Lee,S -g Lee,J Chun</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,T Lee,J Shim,S -g Lee</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -g Lee,D Kim,C Wu</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>Juhnyoung Lee,Suekyung Lee</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -g Lee,L Henschen,J Chun,T Lee</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -g Lee,S Mun,P Jha,B Levine,D Ro</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,G Park,J Oh,K Kim,S -g Lee,C Wu</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ghassan Z Qadah,Lawrence J Henschen</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Junho Shim,Taehee Lee</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Junho Shim,Taehee Lee</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>J Shim,T Lee,S Lee</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chisu Wu,Geunduk Park,Jaewon Oh,Kapsoo Kim</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chisu Wu,Dongkyu Kim,Kapsoo Kim,Woochang Shin</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jae-young Chang</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jae-young Chang</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jae-young Chang</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jae-Heon Cheong</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J Cheong,S -g Lee</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jae-Heon Cheong,Jonghoon Chun</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>Dong-Hoon Choi,Sang-Ho Lee</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J Chun,H Kim,S -g Lee,J Choi,H Cho</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S Hyun,J Choi,J Chun,S -g Lee,D Shin</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J Jung,D Kim,S -g Lee</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Han-joon Kim</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,D Kim,S -g Lee</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,D Kim,J Kim,S -g Lee</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H Kim,S -g Lee</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H Kim,S -g Lee</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H Kim,S -g Lee</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,K Kim,D Kim,J Kim,S Park,I Lee,S -g Lee</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Han-joon Kim</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Han-joon Kim</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S Lin,S W Lee</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Stephen Lin</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S Lin,S W Lee</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S Lin,S W Lee</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Stephen Lin</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Stephen Lin</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,C H Oh,H S Kim,H W Park,W S Kim,S W Lee,Z H Cho</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,E Angelopoulou,S W Lee,R Bajcsy</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,K Arthur,G Bishop,R Bajcsy,H Farid,H Fuchs,S W Lee,L McMillan,A State</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,R Bajcsy,S W Lee,A Leonardis</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,R Bajcsy,S W Lee,A Leonardis</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,R Bajcsy,S W Lee,A Leonardis</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,R Bajcsy,S W Lee,A Leonardis</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,R Bajcsy,S W Lee,A Leonardis</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ruzena Bajcsy</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,R Bajcsy,S W Lee,A Leonardis</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,In Kyu Park,Sang Uk Lee</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,G Sharp,S W Lee,D Wehe</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,G Sharp,S W Lee,D Wehe</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S Sull,J Oh,S Oh,S M H Song,S W Lee</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David K Wehe,Gregory C Sharp</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David K Wehe,Gregory C Sharp</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David K Wehe,Gregory C Sharp</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David K Wehe,Gregory C Sharp</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Daniel Berwick</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,D Berwick,S W Lee</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,D Berwick,S W Lee</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,D Berwick,S W Lee</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,D Berwick,S W Lee</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Z H Cho,H W Park,J B Ra,S W Lee,S K Hilal</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Z H Cho,H S Kim,C H Oh,H W Park,S W Lee</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Z H Cho,S W Lee</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H Farid,S W Lee,R Bajcsy</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,C Frost,S W Lee,R Johnson,Y L Murphy</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H Fuchs,G Bishop,K Arthur,L McMillan,R Bajcsy,S W Lee,H Farid,T Kanade</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,W H Garner,S K Hilal,S W Lee,A Spector</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Z He,J Obermark,J Du,S W Lee,D K Wehe,G F Knoll</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S K Hilal,S W Lee,Z H Cho,S K Mun,J B Ra,M Mawad,A J Silver,P Sane</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S W Lee,R Bajcsy</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S W Lee,R Bajcsy</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S W Lee,Z H Cho</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S W Lee,S K Hilal,Z H Cho</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S W Lee,S K Hilal,J B Ra,J H Kim,S K Mun,Z H Cho</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S W Lee</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S W Lee,A Jaklic,R,Bajcsy,F Solina</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S Lin,S W Lee</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S Lin,S W Lee</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byeong-Soo Jeong,Hyonwoo Seung</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyonwoo Seung,Taewoong Jeon</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyonwoo Seung,Taewoong Jeon</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyonwoo Seung,Sunghwan Roh,Taewoong Jeon</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyonwoo Seung,Taewoong Jeon</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyungill Kim,Jongwon Lee</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyungill Kim,Jongwon Lee</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byeong-Soo Jeong,Daeho Kim</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyungill Kim,Jongwon Lee</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byeong-Soo Jeong,Hyonwoo Seung</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byeong-Soo Jeong,Hyung-Il Kim,Young-Rae Hong</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyonwoo Seung,Taewoong Jeon</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyonwoo Seung,Taewoong Jeon</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Tzilla Elrad,Ufuk Verun</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Choong Seon Hong,Zhaowei Qu</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Sun Hwang,SungSuk Kim</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Sun Hwang,HeonChang Yu</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Sun Hwang,Masaru Kitsuregawa</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Sun Hwang,HeonChang Yu,SungSuk Kim</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Sun Hwang,Soon Young Jung,SungSuk Kim</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Sun Hwang,WonGye Lee</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Sun Hwang,Soon Young Jung</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Sun Hwang,JeHyok Ryu,MoonBae Song</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Sun Hwang,Soon Young Jung</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Sun Hwang,Masaru Kitsuregawa</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Sun Hwang,HeonChang Yu</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Sun Hwang,Soon Young Jung</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Sun Hwang,Masaru Kitsuregawa</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Sun Hwang,Won-Gyu Lee</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Sun Hwang,HeongChang Yu</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Sun Hwang</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>S Lee,D S Kim,S Y Lee,R M Kil</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Doh-Suk Kim,Hoon Kim,Jae-Hoon Jeong</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Michael Mozer</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Cheol Hoon Park,Jung-Wook Cho</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ki-Young Park,Marwan A Jabri,Terrence J Sejnowski</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ki-Young Park</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyung-Min Park,Un-Min Bae</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Song-Yee Yoon</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jim Austin,Rhee Man Kil</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>S Lee,U M Bae,T W Lee,S Y Lee</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Un-Min Bae</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jung-Wook Cho</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jung-Wook Cho</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Aapo Hyv&auml,rinen,Shun-ichi Amari,Te-Won Lee,V David S&aacute,nchez A</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ju-Seog Jang,Sang-Yung Shin</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>S Lee,So-Young Jeong</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J H Jeong,H Kim,D S Kim,S Y Lee</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S H Lee,S J Kim,W Kim,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,G S Na,S H Lee,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,G S Na,S H Lee,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,G S Na,S H Lee,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S H Le e an d L J He nschen,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Y C Park,P I Scheuermann,S H Lee,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Peter Scheuermann,Young Chul Park</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>Dong-Hoon Choi,Sang-goo Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Lawrence J Henschen</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Lawrence J Henschen</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Lawrence J Henschen</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Lawrence J Henschen</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jin Seon Hong,Larry Kerschberg</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H J Jeong,S H Lee,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Anmo Jeong,Byoungju Choi,Dong-Sub Cho,Hwan-Seung Yong,Ki-Joon Chae,Kiho Lee,Meejeong Lee,Myung Kim,Seung-Soo Park,Won Kim</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Anmo Jeong,Byoungju Choi,Dong-Sub Cho,Ho-Sook Kim,Hwan-Seung Yong,Jung-Won Lee,Ki-Joon Chae,Kiho Lee,Meejeong Lee,Minsoo Lee,Myung Kim,Seung-Soo Park,Wol-Young Lee,Won Kim</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,P C Kim,H I Choi,Y I Lee,S H Lee,M J Kim,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung Jin Kim</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S J Kim,S H Lee,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,B M Kim,S H Lee,S R Maeng,J W Cho,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung Jin Kim</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,B M Kim,S H Lee,S R Maeng,J W Cho,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung Jin Kim,Won Kim</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,C S Kim,S H Lee,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S H Lee,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S H Lee,L J Henschen,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S G Lee,D H Choi,S H Lee,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S G Lee,D H Choi,S H Lee,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S G Lee,S H Lee,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S H Lee,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S H Lee,L J Henschen,M H Kim,Y J Lee,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S H Lee,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S H Lee,J S Hong,L Kerschberg,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S H Lee,L J Henschen,S H Lee</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sami B Abugharbieh</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sami B Abugharbieh</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Vector Boolean Algebra and Calculus</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Wang Hongyuan</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Albert D Edgar</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Albert D Edgar</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Albert D Edgar</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jan-Bon Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jan-Bon Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jan-Bon Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>S Lee,On Two-State Completely Isolated Probabilistic Sequential Machines</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ben Kao,Bo Zhou,David Wai-Lok Cheung,Kan Hu</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ben Kao,David Wai-Lok Cheung</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ben Kao,David Wai-Lok Cheung</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ben Kao,Bo Zhou,David Wai-Lok Cheung,Hu Kan</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Pier Luca Lanzi,Rosa Meo,editors</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sau Dan Lee,Luc De Raedt</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sau Dan Lee,Luc De Raedt</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sau Dan Lee,Luc De Raedt</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sau Dan Lee,David Cheung</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sau Dan Lee,David W L Cheung</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Witold Abramowicz,Jozef Zurada,editors</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David Wai-Lok Cheung,David Yang,Siu-Ming Yiu,Tak Wah Lam,Wai-Shing Ho,Wing-Kin Sung</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David W Cheung,Bo Zhou,Ben Kao,Kan Hu,Sau Dan Lee</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David Cheung,Sau Dan Lee,Thomas Lee,William Song,C J Tan</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David Wai Lok Cheung,Sau Dan Lee,Yongqiao Xiao</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David W L Cheung,Sau Dan Lee,Benjamin Kao</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David Wai-Lok Cheung</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David Cheung,Sau Dan Lee</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David Wai Lok Cheung,B Zhou,Ben Kao,H Kan,Sau Dan Lee</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sau Dan Lee,Luc De Raedt</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sau Dan Lee,Luc De Raedt</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sau Dan Lee,David W Cheung,Ben Kao</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Heikki Mannila,Luc De Raedt,Manfred Jaeger</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Luc De Raedt,Manfred Jaeger,Sau Dan Lee,Heikki Mannila</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,C J Tan,David Wai-Lok Cheung,Thomas Lee,William Song</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>David Yang,Wing-Kin Sung,Siu-Ming Yiu,David Cheung,Wai-Shing Ho,Tak-Wah Lam,Sau-Dan Lee</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung Woo Choi,Young-Min Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung Woo Choi,Young-Min Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -H Choi,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung Woo Choi</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -S Park,B -K Shin,J Moon,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J -S Park,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J -S Park,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -S Park,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -S Park,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sang-Cheol Park</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,D -S Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -C Park,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,J -S Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J -S Park,Y -H Oh,S -C Ahn,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -S Park,S -Y Kim,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,Y -J Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -S Park,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,Y -J Kim,M -W Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,C -H Kim,Y Y Tang,H Ma</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,J Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,J -S Park</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,E -S Kim,Y Y Tang</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,D -J Lee,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Song-Ha Choi,Young-Kyu Lim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,D Doermann,S -W Lee,S Srihari,K Tombre,A Rosenfeld</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H Fujisawa,H Sako,Y Okada,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A Golovan,M -H Yoo,S -W Lee,L Podladchikova,D Shaposhnikov</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -K Han,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ho-Jeong Hwang,Hyuk-Chul Kwon,Min-Jung Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bon-Woo Hwang</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,B -W Hwang,V Blanz,T Vetter,H -H Song,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,B -W Hwang,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bon-Woo Hwang,Thomas Vetter,Volker Blanz</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>H -S Park,S-W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S -C Park,H -S Lee,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -C Park,B -W Hwang,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -S Park,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -S Park,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J -S Park,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -S Park,J -S Park,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J -S Park,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -S Park,H -H Song,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J Park,H -Y Kim,Y Park,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,B -W Hwang,H Byun,M -C Roh,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,B -W Hwang,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bon-Woo Hwang</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,B -W Hwang,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bon-Woo Hwang,Jae-Jin Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,B -W Hwang,J -S Park,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seonghoon Kang</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -J Kang,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -J Kang,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S Kang,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J -S Park,H -J Kang,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -S Park,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,I T Podolak,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,I T Podolak,A Bielecki,E Majkit,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Frontiers in Handwriting Recognition</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -K Roh,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -K Roh,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyung-Ki Roh</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dae-Seok Ryu</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,D -S Ryu,S -M Kang,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -J Kang,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seonghoon Kang</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hee-Joong Kang</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -J Kang,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S Kang,H Byun,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S Kang,H -R Byun,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S Kang,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hee-Joong Kang,Jeong-Seon Park</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hee-Jeong Kim,Myung-Hyun Yoo</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -J Kim,M -H Yoo,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ing-Shyh Shyu,Jiming Liu,Lo-Ting Tu,Win-Win Lin,Yuan Yan Tang</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bong-Kee Sin,Seon-Kyu Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bong-Kee Sin,Hee-Seon Park,Jongsub Moon</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -H Song,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hee-Heon Song,Hee-Seon Park</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -H Song,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -H Song,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ching Y Suen,Louisa Lam</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>C Y Suen,W -H Hsu,Patrick S P Wang,S Mori,T Zhang,Paul C K Kwok,L Lam,Seong-Whan Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ching Y Suen,Louisa Lam</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong-June Lee,Hee-Seon Park</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong-June Lee,Hee-Seon Park</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong-June Lee,Hee-Seon Park</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong-June Lee,Hee-Seon Park</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong-June Lee,Hee-Seon Park</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Young Joon Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,D -J Lee,H -S Park</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hee-Jeong Kim,Myung-Hyun Yoo</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,H -H Song</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ju-Sung Kim,Myoung-Young Yoon</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,S -M Kang,H -H Song</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Y -M Kim,S -W Choi,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,Y -J Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -Y Kim,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jong Soo Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Y -J Kim,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Young-Joon Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -Y Kim,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Eun-Soon Kim,Yuan Yan Tang</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Y Y Tang,L -T Tu,J Liu,S -W Lee,W W Lin,I -S Shyu</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Y Y Tang,T Li,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Y Y Tang,S -W Lee,C Y Suen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Y Y Tang,S -W Lee,C Y Suen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Y Y Tang,S -W Lee,C Y Suen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Y Y Tang,S -W Lee,M Cheriet,C D Yan,C Y Suen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Alessandro Verri</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dihua Xi</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,D Xi,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,D Xi,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Eung-Jae Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,E -J Lee,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,S -Y Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,S -Y Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -Y Kim,J -Y Park,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,J -S Park</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Young-Joon Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,L Lam,C Y Suen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -Y Kim,J -Y Park,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,D -S Ryu</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sang-Yup Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Y -J Kim,S -W Lee,M -W Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,H -H Song</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J -J Kim,B -W Hwang,M -H Yoo,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,E -S Kim,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,D -I Kim,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -C Kwon,H -J Hwang,M -J Kim,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,L Lam,S -W Lee,C Y Suen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,D Xi,I T Podolak,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,D Xi,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,D Xi,S -W Lee,Y Y Tang</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dihua Xi</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,D Xi,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,D Xi,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -D Yang,B -K Sin,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,M -Y Yoon,S -W Lee,J -S Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,H -H Song</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,A Verri Eds</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,J Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,S -W Lee,H -C Jung</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee Ed</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,Y Y Tang,P S P Wang</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,H Bulthoff,T Poggio Eds</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,D -J Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,A Verri</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chang Ahn,Hee-Joong Kang,Young-Kyu Lim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong-June Lee,Hee-Seon Park</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,Louisa Lam,C Y Suen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Andrzej Bielecki,Elzbieta Majkut,Igor T Podolak</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,Y Nakano Eds</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A Bielecki,I T Podolak,M Bielecka</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,K -C Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H Bulthoff,S -W Lee,T Poggio,C Wallraven Eds</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,Y Y Tang,P S P Wang Eds</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyeran Byun</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,Y -J Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H -R Byun,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,Y J Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyeran Byun,Seonghoon Kang</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyeran Byun,Seonghoon Kang</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,Y -J Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J -Y Lee,J -S Park,H -R Byun,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J -Y Lee,H -J Kang,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M -S Lee,Y -M Yang,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,J Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,J Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,Y -R Kwon</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,J - H Kim,Frans C A Groen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,Y R Kwon</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,H -S Park,Y Y Tang</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,E -S Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,J Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,E -S Kim,B -W Min</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Y K Lim,H J Kang,C Ahn,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Off-Line Recognition of Totally Unconstrained Handwritten Numerals Using Multilayer Cluster Neural Network</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,Y -J Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,J Kim,F C A Groen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,Y -M Kim,S W Choi</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,K -C Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -W Lee,H -S Park</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyeran Byun,Seonghoon Kang</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyeran Byun,Kil-Cheon Kim,Myung-Cheol Roh,Yeong-Woo Choi</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H Byun,S -W Lee</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,W -G Cho,S -W Lee,J H Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung Woo Choi,Young-Min Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung Woo Choi,Young-Min Kim</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bo Shen</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Bo Shen,Sung-Ju Lee</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>William Su,Sung-Ju Lee,Mario Gerla</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>William Su,Sung-Ju Lee,Mario Gerla</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Ken Tang,Katia Obraczka,Sung-Ju Lee,Mario Gerla</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Ken Tang,Katia Obraczka,Sung-Ju Lee,Mario Gerla</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Ken Tang,Katia Obraczka,Sung-Ju Lee,Mario Gerla</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Ken Tang,Katia Obraczka,Sung-Ju Lee,Mario Gerla</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Zhichen Xu,Chunqiang Tang,Sujata Banerjee,Sung-Ju Lee</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sang Ho Bae,Sung-Ju Lee,Mario Gerla</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sang Ho Bae,Sung-Ju Lee,Mario Gerla</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sang Ho Bae,Sung-Ju Lee,William Su,Mario Gerla</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sujata Banerjee,Jack Brassil,Amy Dalal,Sung-Ju Lee,Ed Perry,Puneet Sharma,Andrew Thomas</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Mario Gerla,William Su</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sujata Banerjee,Jack Brassil,Amy Dalal,Sung-Ju Lee,Ed Perry,Puneet Sharma,Andrew Thomas</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Mario Gerla,Guangyu Pei,Sung-Ju Lee</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sujata Banerjee,Jack Brassil,Amy Dalal,Sung-Ju Lee,Ed Perry,Puneet Sharma,Andrew Thomas</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Julian Hsu,Mario Gerla,Rajive Bagrodia,William Su</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sujata Banerjee,Zhichen Xu,Sung-Ju Lee,Chunqiang Tang</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Manthos Kazantzidis,Mario Gerla,Sung-Ju Lee</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Mario Gerla,William Su</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Youngbae Ko,Sung-Ju Lee,Kang-Yong Lee</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Mario Gerla,William Su</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sung-Ju Lee,Elizabeth M Belding-Royer,Charles E Perkins</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sung-Ju Lee,William Su,Mario Gerla</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sung-Ju Lee,Mario Gerla</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sung-Ju Lee,Mario Gerla</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sung-Ju Lee,William Su,Mario Gerla</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sung-Ju Lee,Mario Gerla,Ching-Chuan Chiang</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sung-Ju Lee,William Su,Mario Gerla</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sung-Ju Lee,William Su,Mario Gerla</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sung-Ju Lee,Wei-Ying Ma,Bo Shen</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sung-Ju Lee,Wei-Ying Ma,Bo Shen</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sung-Ju Lee,William Su,Mario Gerla</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sung-Ju Lee,William Su,Julian Hsu,Mario Gerla,Rajive Bagrodia</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sung-Ju Lee,Chai-Keong Toh,Mario Gerla</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sung-Ju Lee,Elizabeth M Royer,Charles E Perkins</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sung-Ju Lee,Julian Hsu,Russell Hayashida,Mario Gerla,Rajive Bagrodia</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sung-Ju Lee,Mario Gerla,Chai-Keong Toh</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Sung-Ju Lee,Mario Gerla</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Charles E Perkins,Elizabeth M Belding-Royer</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Elizabeth M Royer,Sung-Ju Lee,Charles E Perkins</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Puneet Sharma,Jack Brassil,Sung-Ju Lee,Kang G Shin</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Puneet Sharma,Sung-Ju Lee,Jack Brassil,Julio Lopez</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Puneet Sharma,Sung-Ju Lee,Jack Brassil,Kang G Shin</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Bo Shen,Sung-Ju Lee,Sujoy Basu</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bo Shen,Sujoy Basu</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Bo Shen,Sung-Ju Lee,Sujoy Basu</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Junguk L Kim</authors>
+		<label>21</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Junguk L Kim</authors>
+		<label>21</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Junguk L Kim</authors>
+		<label>21</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Junguk L Kim</authors>
+		<label>21</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A Fast Algorithm for Detecting Distributed Deadlocks in the OR Request Model</authors>
+		<label>21</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Efficient Generalized Deadlock Detection and Resolution in Distributed Systems</authors>
+		<label>21</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yoonjoon Lee</authors>
+		<label>21</label>
+	</publication>
+	<publication>
+		<authors>Seok-Lyong Lee,Seok-Ju Chun,Deok-Hwan Kim,Ju-Hong Lee,Chin-Wan Chung</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chin-Wan Chung,Deok-Hwan Kim,Guang-Ho Cha,Ju-Hong Lee</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chin-Wan Chung,Ju-Hong Lee,Seok-Ju Chun</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chin-Wan Chung,Deok-Hwan Kim</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chin-Wan Chung</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chin-Wan Chung</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chin-Wan Chung,Deok-Hwan Kim,Ju-Hong Lee,Seok-Ju Chun</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Deok-Hwan Kim,Ju-Hong Lee,Seok-Lyong Lee,Chin-Wan Chung</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Ju-Hong Lee,Deok-Hwan Kim,Seok-Lyong Lee,Chin-Wan Chung,Guang-Ho Cha</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ju-Hong Lee,Seok-Ju Chun</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A C Bovik</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A C Bovik</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A C Bovik</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A C Bovik,Y Y Kim</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A C Bovik</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A C Bovik,Y Y Kim</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S-H Park,S-H Jang</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A C Bovik</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J S Youn</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A C Bovik</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S-G Shin,S-Y Shin</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A C Bovik</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A C Bovik</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A C Bovik</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S-H Park,S-H Jang,J-S Koh</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A C Bovik</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J-S Youn,S-H Jang,S-H Jang</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Alan C Bovik,Chris Podilchuk</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Alan C Bovik,Young Yong Kim</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Alan C Bovik</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Alan C Bovik,Chris Podilchuk,Vidhya Krishnan</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Alan C Bovik,Marios S Pattichis</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Melba M Crawford</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>Y Ko,K Lee,E Kang,S Lee</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>Jeong Su Lee,Seong Hwan Jang</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S-H Jang,J-S Lee</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,B L Evans</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chin-Hsiung Wu,Pei-Zong Lee,Shi-Jinn Horng,Shih-Ying Lin</authors>
+		<label>24</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Horng-Ren Tsai,Shi-Jinn Horng,Yu-Hua Lee</authors>
+		<label>24</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chia-Ho Chen,Horng-Ren Tsai,Shi-Jinn Horng,Shun-Shan Tsai,Tzong-Wann Kao</authors>
+		<label>24</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ruey-Chang Tsai,Shi-Jinn Horng,Woei-Jiunn Tsaur</authors>
+		<label>24</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Horng-Ren Tsai,Shi-Jinn Horng,Shun-Shan Tsai,Tzong-Wann Kao</authors>
+		<label>24</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Horng-Ren Tsai,Shi-Jinn Horng,Shun-Shan Tsai,Tzong-Wann Kao</authors>
+		<label>24</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hann-Jang Ho</authors>
+		<label>25</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hann-Jang Ho,Yu-Tsang Chin</authors>
+		<label>25</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Maw-Hwa Chen</authors>
+		<label>25</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Teofilo F Gonzalez</authors>
+		<label>25</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Teofilo F Gonzalez</authors>
+		<label>25</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Teofilo F Gonzalez</authors>
+		<label>25</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hae-Chang Rim,Jun-ichi Tsujii</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hae-Chang Rim,Jun-ichi Tsujii</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Gum-Won Hong,Hae-Chang Rim,Myoung-Sook Ko,Sang-Bum Kim</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Do-Gil Lee,Hae-Chang Rim</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hae-Chang Rim,Hoo-Jung Chung,So-Young Park,Yong-Jae Kwak,Young-Sook Hwang</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Haruhiko Asada</authors>
+		<label>27</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Changhyun Cho,Chong-Won Lee,Munsang Kim,Yoon Sang Kim</authors>
+		<label>27</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Won Lee,Dae-Sung Choi,Jangwook Lee,Munsang Kim</authors>
+		<label>27</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jinsuck Kim,Nancy M Amato</authors>
+		<label>27</label>
+	</publication>
+	<publication>
+		<authors>S Lee,James Fellers,Nancy M Amato</authors>
+		<label>27</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee,Ryszard S Michalski</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee,S Fischthal,J Wnek</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee,David C Rine</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee,David C Rine</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dorin Marcu,Gheorghe Tecuci,Kathryn Wright,Michael Bowman,Mihai Boicu</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dorin Marcu,Gheorghe Tecuci,Kathryn Wright,Michael Bowman,Mihai Boicu</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ryszard S Michalski,K Kaufman,E Bloedorn,Seok Won Lee</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Gheorghe Tecuci,Kathryn Wright,Mihai Boicu</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,G Tecuci,T Dybala,M Hieb,H Keeling,K Wright,P Loustaunau,D Hille,Seok Won Lee</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Gheorghe Tecuci</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,G Tecuci,K Wright,Seok Won Lee,M Boicu,M Bowman</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,G Tecuci,M Boicu,K Wright,Seok Won Lee</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,G Tecuci,M Boicu,K Wright,Seok Won Lee,D Marcu,M Bowman</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,G Tecuci,M Boicu,K Wright,Seok Won Lee,D Marcu,M Bowman</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,G Tecuci,Seok Won Lee</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,K Wright,M Boicu,Seok Won Lee,G Tecuci</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J M Aronis,Bruce G Buchanan,Seok Won Lee</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,M Boicu,G Tecuci,M Bowman,D Marcu,Seok Won Lee,K Wright</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,M Boicu,K Wright,D Marcu,Seok Won Lee,M Bowman,G Tecuci</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Proxy Viewpoints Model-based Requirements engineering</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,L Kerschberg,Seok Won Lee,L Tischer</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee,David C Rine</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee,G Tecuci</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee,L Kerschberg</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee,L Kerschberg</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee,David C Rine</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee,J Wnek</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee,Ryszard S Michalski</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee,S Fischthal,J Wnek</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee,S Fischthal,J Wnek</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee,J Wnek</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee,David C Rine</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee,L Kerschberg</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee,G Tecuci</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee,Ryszard S Michalski</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seok Won Lee,David C Rine</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>Suman Banerjee,Seungjoon Lee,Bobby Bhattacharjee,Aravind Srinivasan</authors>
+		<label>29</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bohyung Han,Minho Shin</authors>
+		<label>29</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chongkwon Kim</authors>
+		<label>29</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chongkwon Kim</authors>
+		<label>29</label>
+	</publication>
+	<publication>
+		<authors>Seungjoon Lee,Rob Sherwood,Bobby Bhattacharjee</authors>
+		<label>29</label>
+	</publication>
+	<publication>
+		<authors>Seungjoon Lee,Chongkwon Kim</authors>
+		<label>29</label>
+	</publication>
+	<publication>
+		<authors>Seungjoon Lee,Chongkwon Kim</authors>
+		<label>29</label>
+	</publication>
+	<publication>
+		<authors>Seungjoon Lee,Minho Shin,Bohyung Han</authors>
+		<label>29</label>
+	</publication>
+	<publication>
+		<authors>Seungjoon Lee,Suman Banerjee,Bobby Bhattacharjee</authors>
+		<label>29</label>
+	</publication>
+	<publication>
+		<authors>Hyojun Lim,Seungjun Lee,Chongkwon Kim</authors>
+		<label>29</label>
+	</publication>
+	<publication>
+		<authors>Hyojun Lim,Seungjun Lee,Chongkwon Kim</authors>
+		<label>29</label>
+	</publication>
+	<publication>
+		<authors>Hyojun Lim,Seungjun Lee,Chongkwon Kim</authors>
+		<label>29</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Rob Sherwood,Samrat Bhattacharjee</authors>
+		<label>29</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Aravind Srinivasan,Bobby Bhattacharjee,Suman Banerjee</authors>
+		<label>29</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong Hoon Lee,Dong-Guk Han,Hye-Young Park,Hyung-Jin Yang,Young-Ho Park</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Heajoung Yoo,Jong In Lim,Maenghee Sung,Okyeon Yi,Seokhie Hong</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Deukjo Hong,Jaechul Sung</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Changhoon Lee,Deukjo Hong,Hyung-Jin Yang,Jongin Lim,Sungjae Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Choonsik Park,Jong In Lim,Ju-Sung Kang</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Jongin Lim,Seokhie Hong,Seonhee Lee,Seonhee Yoon</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong Hyeon Cheon,Kyung Hwan Park,Seok Hie Hong,Seonhee Yoon,Sung Jae Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyejoung Yoo,Jongin Lim,Kwangsoo Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jaechul Sung,Jong In Lim,Okyeon Yi,Wonil Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Donghoon Chang,Jaechul Sung,Jongin Lim,Soo Hak Sung</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Choonsik Park,Jae Woo Han,Ju-Sung Kang,Jung Hee Cheon,Ki Hyoung Ko</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Deukjo Hong,Jongin Lim,Seokhie Hong,Youngdai Ko</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong Hyeon Cheon,Jong In Lim,Sung Jae Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dukjae Moon,Jongsung Kim,Seokhie Hong,Seokwon Jung,Wonil Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Daiki Lee,Seongtaek Chee,Soo Hak Sung</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jae Choon Cha,Jae Woo Han,Jung Hee Cheon,Ki Hyoung Ko</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Deukjo Hong,Jaechul Sung,Jongin Lim,Okyeon Yi,Seokhie Hong,Wonil Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jaechul Sung,Jong In Lim,Sangjoon Park,Seokhie Hong</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong Hoon Lee,Dong-Guk Han,Hye-Young Park,Hyung-Jin Yang,Young-Ho Park</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sang-Joon Park,Seongtaek Chee,Sung-Mo Park</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Heajoung Yoo,Jong In Lim,Maenghee Sung,Okyeon Yi,Seokhie Hong</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kilsoo Chun,Seonhee Yoon,Seungjoo Kim,Soo Hak Sung</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Deukjo Hong,Jaechul Sung</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Changhoon Lee,Deukjo Hong,Hyung-Jin Yang,Jongin Lim,Sungjae Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Choonsik Park,Jong In Lim,Ju-Sung Kang</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Jongin Lim,Seokhie Hong,Seonhee Lee,Seonhee Yoon</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong Hyeon Cheon,Kyung Hwan Park,Seok Hie Hong,Seonhee Yoon,Sung Jae Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyejoung Yoo,Jongin Lim,Kwangsoo Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jaechul Sung,Jong In Lim,Okyeon Yi,Wonil Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jaechul Sung,Jongin Lim,Jongsu Kim,Seokhie Hong</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kwangjo Kim,Soo Hak Sung,Sung-Mo Park</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dae Hyun Ryu,Kyung Hyune Rhee,Sang Uk Shin</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jongin Lim,Maenghee Sung,Sangho Oh,Young-Ho Park</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sang-Joon Park,Seung-Cheol Goh</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Eonkyung Lee,Sang Geun Hahn</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Choonsik Park,Jae Woo Han,Ju-Sung Kang,Jung Hee Cheon,Ki Hyoung Ko</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Eonkyung Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jae Choon Cha,Jae Woo Han,Jung Hee Cheon,Ki Hyoung Ko</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Deukjo Hong,Jaechul Sung,Jongin Lim,Okyeon Yi,Seokhie Hong,Wonil Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jaechul Sung,Jong In Lim,Sangjoon Park,Seokhie Hong</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sang-Joon Park,Seongtaek Chee,Sung-Mo Park</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jaechul Sung,Jongin Lim,Jongsu Kim,Seokhie Hong</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kwangjo Kim,Seongtaek Chee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dukjae Moon,Jongsung Kim,Seokhie Hong,Seokwon Jung,Wonil Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Daiki Lee,Seongtaek Chee,Soo Hak Sung</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jae Choon Cha,Jae Woo Han,Jung Hee Cheon,Ki Hyoung Ko</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Deukjo Hong,Jaechul Sung,Jongin Lim,Okyeon Yi,Seokhie Hong,Wonil Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jaechul Sung,Jong In Lim,Sangjoon Park,Seokhie Hong</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sang-Joon Park,Seongtaek Chee,Sung-Mo Park</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kilsoo Chun,Seonhee Yoon,Seungjoo Kim,Soo Hak Sung</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jaechul Sung,Jongin Lim,Jongsu Kim,Seokhie Hong</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kwangjo Kim,Soo Hak Sung,Sung-Mo Park</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Donghoon Chang,Jaechul Sung,Jongin Lim,Soo Hak Sung</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Choonsik Park,Jae Woo Han,Ju-Sung Kang,Jung Hee Cheon,Ki Hyoung Ko</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Deukjo Hong,Jongin Lim,Seokhie Hong,Youngdai Ko</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong Hyeon Cheon,Jong In Lim,Sung Jae Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dukjae Moon,Jongsung Kim,Seokhie Hong,Seokwon Jung,Wonil Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Daiki Lee,Seongtaek Chee,Soo Hak Sung</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jae Choon Cha,Jae Woo Han,Jung Hee Cheon,Ki Hyoung Ko</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Deukjo Hong,Jaechul Sung,Jongin Lim,Okyeon Yi,Seokhie Hong,Wonil Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jaechul Sung,Jong In Lim,Sangjoon Park,Seokhie Hong</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sang-Joon Park,Seongtaek Chee,Sung-Mo Park</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kilsoo Chun,Seonhee Yoon,Seungjoo Kim,Soo Hak Sung</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jaechul Sung,Jongin Lim,Jongsu Kim,Seokhie Hong</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kwangjo Kim,Soo Hak Sung,Sung-Mo Park</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dukjae Moon,Jongin Lim,Kyungdeok Hwang,Wonil Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Deukjo Hong,Jaechul Sung,Jongin Lim,Shiho Moriai</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jongin Lim,Sangwoo Park,Soo Hak Sung</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Jongin Lim,Kyungdeok Hwang,Sungjae Lee,Wonil Lee</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Donghyeon Cheon,Inho Cho,Jaechul Sung,Jongin Lim,Seokhie Hong</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyejoung Yoo,Hyungwoo Lee,Jongin Lim</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jongin Lim,Maenghee Sung,Sangho Oh,Young-Ho Park</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chin Heong Khor</authors>
+		<label>30</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sai Peck Lee,Siew Khim Thin,Hong Song Liu</authors>
+		<label>30</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sai Peck Lee,Colette Roland</authors>
+		<label>30</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sai Peck Lee,M Zahidur Rahman</authors>
+		<label>30</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chee Hoong Leong</authors>
+		<label>30</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chee Hong Leong,Sai Peck Lee</authors>
+		<label>30</label>
+	</publication>
+	<publication>
+		<authors>Tong-Ming Lim,Sai-Peck Lee</authors>
+		<label>30</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Tong Ming Lim,Sai Peck Lee</authors>
+		<label>30</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Abdulmajid Hissen Mohamed,Lee Sai Peck</authors>
+		<label>30</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kok Meng Yew,M Zahidur Rahman</authors>
+		<label>30</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kok Meng Yew,M Zahidur Rahman</authors>
+		<label>30</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Lip Eng Yong,Sai Peck Lee</authors>
+		<label>30</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Abu Bakar Zaitun,Ying Wah Teh</authors>
+		<label>30</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Mee Yee Chan</authors>
+		<label>31</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Mee Yee Chan</authors>
+		<label>31</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Mee Yee Chan</authors>
+		<label>31</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Mee Yee Chan</authors>
+		<label>31</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Mee Yee Chan</authors>
+		<label>31</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ju-Young Lee Park</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyeong-Ah Choi,Ju-Young Lee Park</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyeong-Ah Choi,Ju-Young Lee Park</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ju-Young Lee Park</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyeong-Ah Choi</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Chang-hoon Choi,Jei-Hwan Yoo,Jeong-Taek Kong,Wong-Seong Lee</authors>
+		<label>33</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chang-hoon Choi,Jin-Kyu Park,Kyung-Ho Kim,Yeong-Gil Kim</authors>
+		<label>33</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jai-Hoon Lee,Kyung-Ho Kim,Yeong-Gil Kim</authors>
+		<label>33</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chang-hoon Choi,Jin-Kyu Park,Kyung-Ho Kim,Yeong-Gil Kim</authors>
+		<label>33</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byung-Gook Park,Chun-An Lee,Dae Hwan Kim,Gwanghyeon Baek,Jaewoo Kyung,Jong Duk Lee,Ki-Whan Song,Kyung Rok Kim</authors>
+		<label>33</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jung-Min Choi,Ki-Dong Chung,Ki-Wan Kim</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ki-Dong Chung,Si-Yong Park</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>S Lee,In-Hwan Kim,Jeong-Won Kim,Ki-Dong Chung</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>In-Hwan Kim,Jung-Won Kim,Seung-Won Lee,Ki-Dong Chung</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>In-Hwan Kim,Jeong-Won Kim,Seung-Won Lee,Ki-Dong Chung</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>S Lee,In-Hwan Kim,Jeong-Won Kim,Ki-Dong Chung</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Seung-Won Lee,Ki-Wan Kim,Jung-Min Choi,Ki-Dong Chung</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Seo-Lim Park,Seung-Won Lee,Ki-Dong Chung</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Jung-Min Choi,Seung-Won Lee,Ki-Dong Chung</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jung-Min Choi,Ki-Dong Chung</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Daniel P Friedman</authors>
+		<label>35</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Daniel P Friedman</authors>
+		<label>35</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Daniel P Friedman</authors>
+		<label>35</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Daniel P Friedman,Stanley Jefferson</authors>
+		<label>35</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chul-Hee Kang,Dae-gun Kim,Lynn Choi</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>Chul-Hee Kang,Seung-Joon Seok,Sung-Hyuck Lee</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>Chul-Hee Kang,Seung-Joon Seok,Sung-Hyuck Lee,Sung-Kwan Youm</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chul-Hee Kang,Daeg-gun Kim,Lynn Choi</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hung-Chang Lin,I-Shyan Hwang</authors>
+		<label>37</label>
+	</publication>
+	<publication>
+		<authors>S Lee,I-Shyan Hwang,Yi-Shiu Lin</authors>
+		<label>37</label>
+	</publication>
+	<publication>
+		<authors>S Lee,I-Shyan Hwang</authors>
+		<label>37</label>
+	</publication>
+	<publication>
+		<authors>S Lee,I-Shyan Hwang</authors>
+		<label>37</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bo-Yeong Kang,Dae-Won Kim,Sang-Ok Gu</authors>
+		<label>38</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bo-Yeong Kang,Jung-Hee Park,Tae-Gil Noh</authors>
+		<label>38</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Mu Hee Song,Sang Ok Koo,Soo Yeon Lim</authors>
+		<label>38</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bo-Yeong Kang</authors>
+		<label>38</label>
+	</publication>
+	<publication>
+		<authors>Sang-Kyu Lee,Andrew D Oh,Hongsik Choi,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Kyu Lee,Andrew D Oh,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Kyu Lee,Andrew D Oh,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Bong-Hee Moon,Sang-Kyu Lee</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bong-Hee Moon,Haengeun Jung,Jumgim Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A Duksu Oh,Hongsik Choi,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A Duksu Oh,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Julie L Park,Sang-Kyu Lee,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Myung Park,Sang-Kyu Lee,Bong-Hee Moon</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Myung Park,Sang-Kyu Lee,Bong-Hee Moon</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Julie L Park,Sang-Kyu Lee,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Myung Park,Sang-Kyu Lee,Bong-Hee Moon</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Kyu Lee,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Kyu Lee,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Kyu Lee,Ju-Young Lee,Mi-Yeon Kang</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Kyu Lee,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Kyu Lee,Julie L Park</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Kyu Lee,Ju-Young Lee</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Kyu Lee,Ju-Young Lee,Yoon-Jung Kim</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Kyu Lee,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Kyu Lee,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Jumgim Choi,Haengeun Jung,Sang-Kyu Lee,Bong-Hee Moon</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Eric Harder,Sang-Kyu Lee,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Cha-Young Kim,Sang-Kyu Lee,Ju-Young Lee</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Kyu Lee,Ju-Young Lee</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Kyu Lee,Andrew D Oh,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Kyu Lee,Andrew D Oh,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Kyu Lee,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Kyu Lee,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Kyu Lee,Andrew D Oh,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Sang-Kyu Lee,Andrew D Oh,Hyeong-Ah Choi</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jaehyuk Cha,Jisook Park,Yunmook Nah</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Taeck-Geun Kwon</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyoung-Joo Kim,Seong-Woo Chang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyeokman Kim,Hyoung-Joo Kim</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Taeck-Geun Kwon</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Eunsam Kim,Taeck-Geun Kwon,Yunmook Nah</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Soochan Hwang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yunmook Nah</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Soochan Hwang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Taeck-Geun Kwon</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyeokman Kim,Hyoung-Joo Kim</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hwan-Seung Yong</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Taeck-Geun Kwon,Yanghee Choi</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jaehyuk Cha</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jinuk Bae</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bongki Moon,Wonik Choi</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bongki Moon,Hyoseop Shin</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bongki Moon,Hyoseop Shin</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Dongseop Kwon,Sangjun Lee</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jisook Park</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jaehyuk Cha,Jisook Park,Yunmook Nah</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Taeck-Geun Kwon</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyoung-Joo Kim,Seong-Woo Chang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Taewon Lee</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dongseop Kwon,Hyoseop Shin,Joonho Kwon</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byoungho Song,Seokjin Hong</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hwan-Seung Young</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sunyeong Cho</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hans-Ulrich Heiss,Ming-Syan Chen,Philip S Yu</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hans-Ulrich Heiss,Ming-Syan Chen,Philip S Yu</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dongseop Kwon,Hyoseop Shin,Joonho Kwon</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Dongseop Kwon,Sangjun Lee</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Dongseop Kwon,Sangjun Lee</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bongki Moon,Hyoseop Shin</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Dongseop Kwon,Sangjun Lee</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyeokman Kim,Hyoung-Joo Kim</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Taeck-Geun Kwon</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Eunsam Kim,Taeck-Geun Kwon,Yunmook Nah</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Soochan Hwang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yunmook Nah</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Dongseop Kwon,Sangjun Lee</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Soochan Hwang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bongki Moon,Hyoseop Shin</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Taeck-Geun Kwon</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bongki Moon,Wonik Choi</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bongki Moon,Hyoseop Shin</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyeokman Kim,Hyoung-Joo Kim</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hwan-Seung Yong</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Taeck-Geun Kwon,Yanghee Choi</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jaehyuk Cha</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bongki Moon,Hyoseop Shin</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jisook Park,Yunmook Nah</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Myungsun Park</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Soochan Hwang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yunmook Nah</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bongki Moon,Taewon Lee</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bongki Moon,Hyoseop Shin</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Data Base Research and Development in Korea</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kyuchul Lee</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hwan-Seung Yong,Hyoung-Joo Kim</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyoung-Joo Kim,Seong-Woo Chang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyeokman Kim,Hyoung-Joo Kim</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyeokman Kim,Hyoung-Joo Kim</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hwan-Seung Yong</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Brad Cobb,James Wingfield,Jennifer Dworak,Li-C Wang,M Ray Mercer</authors>
+		<label>40</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jennifer Dworak,Li-C Wang,M Ray Mercer,Michael R Grimaila</authors>
+		<label>40</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jennifer Dworak,Li-C Wang,M Ray Mercer,Michael R Grimaila</authors>
+		<label>40</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Brad Cobb,Jennifer Dworak,M Ray Mercer,Michael R Grimaila</authors>
+		<label>40</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kee-Young Yoo</authors>
+		<label>41</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Mats Brorsson,Sven Karlsson</authors>
+		<label>41</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyun-Sung Kim,Jung-Joon Kim,Kee-Young Yoo,Tae-Geun Kim</authors>
+		<label>41</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyun-Sung Kim,Kee-Young Yoo</authors>
+		<label>41</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byeong Man Kim,Jung Wan Cho,Seung Ryoul Maeng</authors>
+		<label>42</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Il-Yeol Song,Kyu-Young Whang,Yang-Sae Moon</authors>
+		<label>42</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Il-Yeol Song,Kyu-Young Whang,Yang-Sae Moon</authors>
+		<label>42</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Il-Yeol Song,Kyu-Young Whang,Wook-Shin Han,Yang-Sae Moon</authors>
+		<label>42</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Eunsook Jin,Ju-Won Song,Jungmin Seo,Kwangjoon Lee,Suyoung Yoon</authors>
+		<label>43</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kiwon Ko,Youngsun Kim</authors>
+		<label>43</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Daewon Kim,Eunil Yun,Jinhan Kim,YoungSik Choi</authors>
+		<label>43</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sang Gil Kim,Young Sun Kim</authors>
+		<label>43</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bin Zhang,Sargur N Srihari</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sargur N Srihari,Sung-Hyuk Cha</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hina Arora,Sargur N Srihari,Sung-Hyuk Cha</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bin Zhang,Catalin I Tomai,Sargur N Srihari</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Community Grids</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Sangmi Lee,Geoffrey Fox,Sunghoon Ko,Minjun Wang,Xiaohong Qiu</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Sangmi Lee,Sunghoon Ko,Geoffrey Fox</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Sangmi Lee,Sunghoon Ko,Geoffrey Fox,Kangseok Kim,Sangyoon Oh</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sangyoon Oh,Geoffrey C Fox,Sunghoon Ko</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ahmet Uyar,Choon-Han Youn,Geoffrey Fox,Gurhan Gunduz,Hasan Bulut,Jake Kim,Kang-Seok Kim,Marlon E Pierce,Mustafa Varank,Ozgur Balsoy,Sangyoon Oh,Shrideep Pallickara,Sung Hoon Ko,Xi Rao,Xiaohong Qiu</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Hasan Bulut,Geoffrey Fox,Dennis Gannon,Kangseok Kim,Sung-Hoon Ko,Sangmi Lee,Sangyoon Oh,Xi Rao,Shrideep Pallickara,Quinlin Pei,Marlon Pierce,Aleksander Slominski,Ahmet Uyar,Wenjun Wu,Choonhan Youn</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Geoffrey Fox,Dennis Gannon,Sung-Hoon Ko,Sangmi Lee,Shrideep Pallickara,Marlon Pierce,Xiaohong Qiu,Xi Rao,Ahmet Uyar,Minjun Wang,Wenjun Wu</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Geoffrey Fox</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Geoffrey Fox,Hasan Bulut,Kangseok Kim,Sung-Hoon Ko,Sangmi Lee,Sangyoon Oh,Shrideep Pallickara,Xiaohong Qiu,Ahmet Uyar,Minjun Wang,Wenjun Wu</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Geoffrey Fox,Sangmi Lee,Sung-Hoon Ko,Kangseok Kim,Sangyoon Oh</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Geoffrey Fox,Sung Hoon Ko</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Geoffrey Fox,Kang-Seok Kim,Sangyoon Oh,Sunghoon Ko</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Geoffrey Fox,Sunghoon Ko,Kangseok Kim,Sangmi Lee,Sangyoon Oh</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Geoffrey Fox,Kang-Seok Kim,Sangyoon Oh,Sung-Hong Ko</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Pen-Chung Yew</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Pen-Chung Yew</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,B Y Yoo,S J Lee</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,B G Yoo,S J Lee</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>Qing Zhao,Sang-Jeong Lee,David J Lilja</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J K Choi,S J Lee</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J K Choi,S J Lee</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J K Choi,S J Lee</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J K Choi,S J Lee</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J K Choi,H G Sim,S J Lee</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>E S Hwang,J K Choi,B G Yoo,S Lee</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S J Lee,I C Lim</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>Sang-Jeong Lee,Yuan Wang,Pen-Chung Yew</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S J Lee</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S J Lee</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S J Lee,K J Kim</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S J Lee,B G Yoo</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S J Lee,H K Sim</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>Sang-Jeong Lee,Pen-Chung Yew</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>Sang-Jeong Lee,Pen-Chung Yew</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>Sang-Jeong Lee,Pen-Chung Yew</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S J Lee</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S J Lee</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S J Lee,I C Lim</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S J Lee,I C Lim</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S J Lee</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S J Lee,I C Lim</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H R Park,S J Lee</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H R Park,B C Joun,S J Lee</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H P Park,B C Joun,S J Lee</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H R Park,B C Joun,S J Lee</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H G Sim,Y S Kim,S J Lee</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Pen-Chung Yew,Yuan Wang</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Pen-Chung Yew</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyung-Woo Lee,Tai-Yun Kim</authors>
+		<label>47</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyung-Woo Lee,Im-Yeong Lee</authors>
+		<label>47</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Tai-Yun Kim</authors>
+		<label>47</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Tai-Yun Kim</authors>
+		<label>47</label>
+	</publication>
+	<publication>
+		<authors>S Lee,H Yu,K Yamada,Mario Gerla,S Das</authors>
+		<label>48</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Mario Gerla</authors>
+		<label>48</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Claudio Casetti,Gianluca Reali,Mario Gerla</authors>
+		<label>48</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Alex Dubrovsky,Dirceu Cavendish,Mario Gerla</authors>
+		<label>48</label>
+	</publication>
+	<publication>
+		<authors>Sang-Ho Lee,Seung-Soo Park</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Sang-Ho Lee,Jeong-In Hwang</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Sang-Ho Lee,Hwa-Seon Park</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Sang-Ho Lee,Joo-Hee Lee</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Sang-Ho Lee,Seok-Hee Hong</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Hak-Chul Lee,Hee-Chul Kim,Sang-Ho Lee</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Sang-Ho Lee,Kyung-Yong Chwa</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Sang-Ho Lee,Jeong-In Doh,Kyung-Yong Chwa</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Young-Ock Lee,Sang-Ho Lee</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Sang-Ho Lee,Kyung-Yong Chwa</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Sang-Ho Lee,Su-Won Lee,Kyung-Yong Chwa</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Sang-Ho Lee,Jee-Young Moon</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Eun-Sook Oh,Seok-Hee Hong,Sang-Ho Lee</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Aaron J Quigley,Peter Eades,Seok-Hee Hong</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Dong-Sub Cho,Sang-Ho Lee</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Dong-Sub Cho,Sang-Ho Lee</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Yeon-Leong Cho,Joo-Hee Lee,Sang-Ho Lee</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kyung-Yong Chwa</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Peter Eades,Seok-Hee Hong</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Peter Eades,Seok-Hee Hong</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Hee Kang,Sun-Young Park,Wook Koh,Sang-Ho Lee</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Sang-Ho Lee,Keum-Rim Shin</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chih-Hung Wu</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David A Plaisted</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chih-Hung Wu</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chih-Hung Wu</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chih-Hung Wu</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David A Plaisted,Geoffrey D Alexander,Heng Chu</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chih-Hung Wu</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David A Plaisted</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chih-Hung Wu</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Cheng-Jer Yu,Chih-Hung Wu,Hung-Sen Chou</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chih-Hung Wu</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chih-Hung Wu</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David A Plaisted</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Cheng-Jer Yu,Chih-Hung Wu</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chih-Hung Wu</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David A Plaisted</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chih-Hung Wu</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chih-Hung Wu</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chih-Hung Wu</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A Self-Guided Theorem Proving System</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,An Autonomous Multistrategy Theorem Proving System Using Knowledge-Based Techniques</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chun-Liang Hou,Hsiang-Ren Shih,I-Chieh Lin</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hsin-Tai Yang</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Benjamin Han,Hsin-Tai Yang</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Benjamin Han,Hsin-Tai Yang</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Benjamin Han</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Amy Lai,Chi-Jong Chang,Wei Kuang Lai</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Benjamin Han,Hsin-Tai Yang</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chi-Jong Chang,Jian-Jou Lai,Yu-Wen Lai</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Amy Lai,Chi-Jong Chang,Wei Kuang Lai</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Benjamin Han,Hsin-Tai Yang</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chen-Sen Ouyang,Wen-Gong Chen</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chen-Sen Ouyang,Shih-Huai Du</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Formal Reasoning in Intelligent Database Systems</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Wei-Jer Lin</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,An-Tai Lin</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David A Plaisted</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chih-Hung Wu</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Cheng-Jer Yu,Chih-Hung Wu,Hung-Sen Chou</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chih-Hung Wu</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chih-Hung Wu</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David A Plaisted</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Cheng-Jer Yu,Chih-Hung Wu</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Takayasu Sakurai</authors>
+		<label>50</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dongkun Shin,Jihong Kim</authors>
+		<label>50</label>
+	</publication>
+	<publication>
+		<authors>Seungjun Lee,Takayasu Sakurai</authors>
+		<label>50</label>
+	</publication>
+	<publication>
+		<authors>Samuel Sangkon Lee,Taehun Lee</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Sangkon Lee,Masafumi Koyama,Shoji Mizobuchi,Kyoko Uchibayashi,Fumihiko Kawano,Takahiro Komatsu,Jun-ichi Aoe</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Samuel Sangkon Lee,Masami Shishibori,Toru Sumitomo,Jun-ichi Aoe</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Sangkon Lee,Hyunsu Kang,Hyungyung Chon,Yongseok Lee</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Sangkon Lee,Masami Shishibori,Kazuhiro Morita,Jun-ichi Aoe</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Sangkon Lee,Masami Shishibori</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Yongju Lee,Sangkon Lee</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jun-Ichi Aoe,Masaki Oono,Masami Shishibori</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jun-Ichi Aoe,Masami Shishibori,Toru Sumitomo</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jun-Ichi Aoe,Kazuaki Ando,Makoto Okada,Yoshitaka Hayashi</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>El-Sayed Atlam,Sangkon Lee,Kazuhiro Morita,Masami Shishibori,Jun-ichi Aoe</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Masao Fuketa,Sangkon Lee,Takako Tsuji,Makoto Okada,Jun-ichi Aoe</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Masao Fuketa,Kazuhiro Morita,Sangkon Lee,Jun-ichi Aoe</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Masao Fuketa,Sangkon Lee,Toru Sumitomo,Jun-ichi Aoe</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Sung-Og Hong,Samuel Sangkon Lee</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Samuel Sangkon Lee,Wan Kwan Lee</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Shoji Mizobuchi,Sangkon Lee,Fumihiko Kawano,Tsuyoshi Kobayashi,Takahiro Komatsu,Jun-ichi Aoe</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Makoto Okada,Kazuaki Ando,Samuel Sangkon Lee,Yoshitaka Hayashi,Jun-ichi Aoe</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Masami Shishibori,Samuel Sangkon Lee,Masaki Oono,Jun-ichi Aoe</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Masami Shishibori,Sangkon Lee,Minsoo Chon,Jun-ichi Aoe</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyun-Sung Kim,Kee-Young Yoo,Woo-Hun Kim</authors>
+		<label>52</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyun-Sung Kim,Kee-Young Yoo,Woo-Hun Kim</authors>
+		<label>52</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyun-Sung Kim,Kee-Young Yoo,Woo-Hun Kim</authors>
+		<label>52</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Julian Cummings,Steven D Nolen</authors>
+		<label>53</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Julian Cummings,Noel D Keen,Steven D Nolen</authors>
+		<label>53</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Julian Cummings,Steven D Nolen</authors>
+		<label>53</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ilyoung Chong</authors>
+		<label>54</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyeong Ho Lee,Young-Ki Hong</authors>
+		<label>54</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ilyoung Chong</authors>
+		<label>54</label>
+	</publication>
+	<publication>
+		<authors>ChangJong Wang,SeungGeun Lee</authors>
+		<label>55</label>
+	</publication>
+	<publication>
+		<authors>S Lee,ChangJong Wang,JinHyun Tak</authors>
+		<label>55</label>
+	</publication>
+	<publication>
+		<authors>S Lee,ChangJong Wang,Chidon Ahn</authors>
+		<label>55</label>
+	</publication>
+	<publication>
+		<authors>S Lee,David A Bell,J W Guan</authors>
+		<label>56</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Imprecise and Uncertain Information in Databases: An Evidential Approach</authors>
+		<label>56</label>
+	</publication>
+	<publication>
+		<authors>S Lee,An Extended Relational Database Model for Uncertain and Imprecise Information</authors>
+		<label>56</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Andrew T Campbell</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Andrew T Campbell,Gahng-Seop Ahn,Xiaowei Zhang</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Andrew T Campbell,Gahng-Seop Ahn,Xiaowei Zhang</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>S Cheul,S Lee</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>Seoung-Bum Lee,Andrew T Campbell</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>Seoung-Bum Lee,Andrew T Campbell</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S B Lee,G S Ahn,X Zhang,A T Campbell</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>Seoung-Bum Lee,Andrew T Campbell</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S B Lee,G S Ahn,A T Campbell</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>Seoung-Bum Lee,Gahng-Seop Ahn,Xiaowei Zhang,Andrew T Campbell</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>Seoung-Bum Lee,Andrew T Campbell</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S B Lee,A Gahng-Seop,X Zhang,A T Campbell</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung-Bae Cho</authors>
+		<label>58</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chul Sung,Sung-Bae Cho</authors>
+		<label>58</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung-Bae Cho</authors>
+		<label>58</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byung Ro Moon,Dong-il Seo</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byung Ro Moon,Yong-Hyuk Kim</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byung-Ro Moon,Chun-Kyung Kim</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byung-Ro Moon,Andrew B Kahng</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>Il-Seok Oh,Jin-Seon Lee,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jaewon Oh,Hyokyung Bahn,Chisu Wu,Kern Koh,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Eun-Jong Park,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung-Kyu Park,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong-Il Seo,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong-Il Seo,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong-Il Seo,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong-Il Seo,Yong-Hyuk Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong-Il Seo,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Seung-jin Yang,Yong-Geon Kim,Yung-Keun Kwon,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyun-Sook Yoon,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyun-Sook Yoon,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung-Soon Choi,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung-Soon Choi,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung-Soon Choi,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung-Soon Choi,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung-Soon Choi,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung-Soon Choi,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yoon-Seok Choi,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung-Soon Choi,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung-Soon Choi,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Inki Hong,Andrew B Kahng,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Thang N Bui,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Thang N Bui,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Thang N Bui,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Thang N Bui,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Thang N Bui,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Thang N Bui,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Thang N Bui,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Thang N Bui,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Heemahn Choe,Sung-Soon Choi,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Inki Hong,Andrew B Kahng,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Soonchul Jung,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Soonchul Jung,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Soonchul Jung,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,So-Jin Kang,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jong-Pil Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jung-Hwan Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jung-Hwan Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jung-Hwan Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Su-Hyang Kim,Yong-Hyuk Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jong-Pil Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jong-Pil Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yong-Hyuk Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jung-Hwan Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yong-Hyuk Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yong-Hyuk Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yong-Hyuk Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yong-Hyuk Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yong-Hyuk Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yong-Hyuk Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jung-Hwan Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yong-Hyuk Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jung-Hwan Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yong-Hyuk Kim,Yung-Keun Kwon,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>Yong-Hyuk Kim,Seung-Kyu Lee,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yung-Keun Kwon,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yung-Keun Kwon,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yung-Keun Kwon,Sung-Deok Hong,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yung-Keun Kwon,Byung-Ro Moon,Sung-Deok Hong</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yung-Keun Kwon,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>Seung-Kyu Lee,Yong-Hyuk Kim,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>Seong-Kyu Lee,Dong-Il Seo,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byung-Jung Lee,Byung-Ro Moon,Chi-Soo Wu</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>Sang-Yon Lee,Byung-Ro Moon</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byung-Ro Moon,Chun-Kyung Kim</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byung-Ro Moon,Heung-Nam Kim</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byung Ro Moon,Yong-Hyuk Kim</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byung-Ro Moon,Chun-Kyung Kim</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>Byung-Ro Moon,Yun-Sik Lee,Chun-Kyung Kim</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>Byung-Ro Moon,Yun-Sik Lee,Chun-Kyung Kim</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Duan-Yu Chen,Hua-Tsung Chen</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ju-Wei Chen</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Guan-Chi Chen</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Duan-Yu Chen,Ming-Ho Hsiao</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Duan-Yu Chen,Shin-Tzer Lee</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Li-Chuan Chuang</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,F J Hsu,S Y Lee,P S Lin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,F J Hsu,S Y Lee,P S Lin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,I-Chang Jou,Quen-Zong Wu</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,I -Chang Jou,Miin-Luen Day</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Huan-Ming Kao</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S Y Lee,R L Liou</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Tyne Liang,Wei-Pang Yang</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bao-Shuh P Lin,Fang-Jung Hsu</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ming-Yen Lin,Sheng-Shun Wang</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ming-Yen Lin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ming-Yen Lin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bao-Shuh P Lin,Fang-Jung Hsu</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ming-Yen Lin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ruey-Long Liou</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ruey-Long Liou</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Man-Kwan Shan</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Man-Kwan Shan</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Man-Kwan Shan</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,M K Shan,S Y Lee</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,M K Shan,S Y Lee</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Man-Kwan Shan</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,C W Chang,S Y Lee</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Man-Kwan Shan</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chuej-Wei Chang</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Man-Kwan Shan,Wei-Pang Yang</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,C W Chang,S Y Lee</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chueh-Wei Chang,Keh-Feng Lin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Wen-Jiin Tsai</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chueh-Wei Chang</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ju-Wei Chen</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Guan-Chi Chen</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Duan-Yu Chen</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Duan-Yu Chen,Shu-Jiuan Lin</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Wen-Jiin Tsai</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,W J Tsai,S Y Lee</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Wen-Jiin Tsai</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,W -J Tsai</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Andreas Ermedahl,Naehyuck Chang,Sang Lyul Min</authors>
+		<label>60</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chang-Gun Lee,Chong-Sang Kim,Minsuk Lee,Sang Lyul Min</authors>
+		<label>60</label>
+	</publication>
+	<publication>
+		<authors>Sheayun Lee,Jaejin Lee,Sang Lyul Min,Jason Hiser,Jack W Davidson</authors>
+		<label>60</label>
+	</publication>
+	<publication>
+		<authors>Sheayun Lee,Jaejin Lee,Chang Yun Park,Sang Lyul Min</authors>
+		<label>60</label>
+	</publication>
+	<publication>
+		<authors>Sheayun Lee,Chang-Gun Lee,Minsuk Lee,Sang Lyul Min,Chong Sang Kim</authors>
+		<label>60</label>
+	</publication>
+	<publication>
+		<authors>Sheayun Lee,Andreas Ermedahl,Sang Lyul Min,Naehyuck Chang</authors>
+		<label>60</label>
+	</publication>
+	<publication>
+		<authors>Sheayun Lee,Minsuk Lee,Sang Lyul Min,Chong Sang Kim</authors>
+		<label>60</label>
+	</publication>
+	<publication>
+		<authors>Seokjin Hong,Sangjun Lee,Sukho Lee</authors>
+		<label>61</label>
+	</publication>
+	<publication>
+		<authors>Dongseop Kwon,Sukho Lee</authors>
+		<label>61</label>
+	</publication>
+	<publication>
+		<authors>Dongseop Kwon,Sukho Lee</authors>
+		<label>61</label>
+	</publication>
+	<publication>
+		<authors>Dongseop Kwon,Sukho Lee</authors>
+		<label>61</label>
+	</publication>
+	<publication>
+		<authors>Dongseop Kwon,Sangjun Lee,Sukho Lee</authors>
+		<label>61</label>
+	</publication>
+	<publication>
+		<authors>Sangjun Lee,Dongseop Kwon,Sukho Lee</authors>
+		<label>61</label>
+	</publication>
+	<publication>
+		<authors>Sangjun Lee,Dongseop Kwon,Sukho Lee</authors>
+		<label>61</label>
+	</publication>
+	<publication>
+		<authors>Sangjun Lee,Jisook Park,Sukho Lee</authors>
+		<label>61</label>
+	</publication>
+	<publication>
+		<authors>Sangjun Lee,Bumsoo Kim,Sukho Lee</authors>
+		<label>61</label>
+	</publication>
+	<publication>
+		<authors>Sangjun Lee,Dongseop Kwon,Sukho Lee</authors>
+		<label>61</label>
+	</publication>
+	<publication>
+		<authors>Sangjun Lee,Dongseop Kwon,Sukho Lee</authors>
+		<label>61</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Huey-Ming Lee,Jan-Jo Chen,Tsung-Yen Lee</authors>
+		<label>62</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Huey-Ming Lee,Jan-Jo Chen,Tsung-Yen Lee</authors>
+		<label>62</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Huey-Ming Lee,Jan-Jo Chen,Tsung-Yen Lee</authors>
+		<label>62</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jong-Soo Choi,Seok-Hyun Ryu,Tae-eun Kim</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyun-Ki Hong,Jong-Soo Choi</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>Jong-Soo Choi,Sang-Keun Lee</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A Jefferson Offutt</authors>
+		<label>64</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A Jefferson Offutt</authors>
+		<label>64</label>
+	</publication>
+	<publication>
+		<authors>S Lee,A Jefferson Offutt</authors>
+		<label>64</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Donald Carney,Stanley B Zdonik</authors>
+		<label>65</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Donald Carney,Stanley B Zdonik</authors>
+		<label>65</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Christian Convey,Donald Carney,Greg Seidman,Michael Stonebraker,Mitch Cherniack,Nesime Tatbul,Stanley B Zdonik,Ugur &Ccedil,etintemel</authors>
+		<label>65</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Suzanne Sluizer</authors>
+		<label>66</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Suzanne Sluizer</authors>
+		<label>66</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Suzanne Sluizer</authors>
+		<label>66</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyoung-Joo Kim,Yong-Han Kim</authors>
+		<label>67</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyoung-Joo Kim</authors>
+		<label>67</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chiyoung Seo,Hyoung-Joo Kim</authors>
+		<label>67</label>
+	</publication>
+	<publication>
+		<authors>S Lee,B H Lee,Myoung H Choi,W Kwon,Wook Hyun Kwon</authors>
+		<label>68</label>
+	</publication>
+	<publication>
+		<authors>S Lee,B H Park,W H Lee,W Kwon,Wook Hyun Kwon</authors>
+		<label>68</label>
+	</publication>
+	<publication>
+		<authors>S Lee,B H Lee,T H Park</authors>
+		<label>68</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chul-Hee Kang,Seok-Min Hong,Seung-Joon Seok</authors>
+		<label>69</label>
+	</publication>
+	<publication>
+		<authors>Chul-Hee Kang,Seung-Jin Lee,Seung-Joon Seok</authors>
+		<label>69</label>
+	</publication>
+	<publication>
+		<authors>Chul-Hee Kang,Seung-Jin Lee,Seung-Joon Seok,Sung-Kwan Youm</authors>
+		<label>69</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Carlos L L&uuml,ck</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dal H Lee,Dongmok Shin,Kwang S Boo</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Changseung Lee,Jaewoo Chung,Seungmo Lim</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Won Lee,Jong-Oh Park,Sookwang Ro</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yeong-Gil Shin</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jung-Moon Lee</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jun Park</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Shunichi Shimoji</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Judy Chen</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Judy Chen</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hernsoo Hahn</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Andrew Sohn,Jean-Luc Gaudiot</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong Yoon Kim,Dongmok Shin,Jae-Won Lee,Kwang S Boo,Kyoung Sig Roh,Woong Kwon</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ki Cheol Park,Pyung Hun Chang</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong Yoon Kim,Dongmok Shin,Jae-Won Lee,Kyoung Sig Roh,Woong Kwon</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Javier Bautista</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Judy Chen</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sungbok Kim</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jae-Won Lee</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hadi Moradi</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sookwang Ro</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chunsik Yi</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Woong Kwon</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Carlos L L&uuml,ck</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dal H Lee,Dongmok Shin,Kwang S Boo</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Changseung Lee,Jaewoo Chung,Seungmo Lim</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Won Lee,Jong-Oh Park,Sookwang Ro</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Judy Chen</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Judy Chen</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Fu-Chung Wang</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chunsik Yi</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chunsik Yi</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Woong Kwon</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Carlos L L&uuml,ck</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dal H Lee,Dongmok Shin,Kwang S Boo</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Changseung Lee,Jaewoo Chung,Seungmo Lim</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chong-Won Lee,Jong-Oh Park,Sookwang Ro</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,George A Bekey,Gerard Jounghyun Kim</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Carol E L&uuml,ck</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Haewon Lee,Soo-hyeong Lee,Yanghee Choi</authors>
+		<label>70</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Haewon Lee,Yanghee Choi</authors>
+		<label>70</label>
+	</publication>
+	<publication>
+		<authors>W Yoon,Soo-hyeong Lee,Yanghee Choi</authors>
+		<label>70</label>
+	</publication>
+	<publication>
+		<authors>S Kim,D Ko,Soo-hyeong Lee</authors>
+		<label>70</label>
+	</publication>
+	<publication>
+		<authors>M Kim,Soo-hyeong Lee</authors>
+		<label>70</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byung G Kim,Yanghee Choi</authors>
+		<label>70</label>
+	</publication>
+	<publication>
+		<authors>M Kim,Soo-hyeong Lee</authors>
+		<label>70</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byung G Kim,Yanghee Choi</authors>
+		<label>70</label>
+	</publication>
+	<publication>
+		<authors>Soo-hyeong Lee,Yanghee Choi</authors>
+		<label>70</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>70</label>
+	</publication>
+	<publication>
+		<authors>Soo-hyeong Lee,Byung G Kim,Yanghee Choi</authors>
+		<label>70</label>
+	</publication>
+	<publication>
+		<authors>Soo-hyeong Lee,Byung G Kim,Yanghee Choi</authors>
+		<label>70</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kewal K Saluja</authors>
+		<label>71</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kewal K Saluja</authors>
+		<label>71</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kewal K Saluja,Todd P Kelsey</authors>
+		<label>71</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Taiyun Kim</authors>
+		<label>72</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Taiyun Kim</authors>
+		<label>72</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Taiyun Kim</authors>
+		<label>72</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Choong Woong Lee,Nam Su Moon</authors>
+		<label>73</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Choong Woong Lee,Jong-Il Park</authors>
+		<label>73</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jong-Il Park,Yasuaki Kanatsugu</authors>
+		<label>73</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jin Wook Byun,Ik Rae Jeong,Dong Hoon Lee,Chang-Seop Park</authors>
+		<label>74</label>
+	</publication>
+	<publication>
+		<authors>Donghoon Chang,Jaechul Sung,Soohak Sung,Sangjin Lee,Jongin Lim</authors>
+		<label>74</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ki Sik Chang,Hak Soo Ju,Dong Hoon Lee,Sang Jin Lee,Jong In Lim</authors>
+		<label>74</label>
+	</publication>
+	<publication>
+		<authors>Dong-Guk Han,Hye-Young Park,Young-Ho Park,Sangjin Lee,Dong Hoon Lee,Hyung-Jin Yang</authors>
+		<label>74</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong-Guk Han,Ki Soon Yoon,Young-Ho Park,Chang Han Kim,Jongin Lim</authors>
+		<label>74</label>
+	</publication>
+	<publication>
+		<authors>Seokhie Hong,Jaechul Sung,Sangjin Lee,Jongin Lim,Jongsu Kim</authors>
+		<label>74</label>
+	</publication>
+	<publication>
+		<authors>Kyungdeok Hwang,Wonil Lee,Sungjae Lee,Sangjin Lee,Jongin Lim</authors>
+		<label>74</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ik Rae Jeong,Hee Yun Jeong,Hyun Sook Rhee,Dong Hoon Lee,Jong In Lim</authors>
+		<label>74</label>
+	</publication>
+	<publication>
+		<authors>Jongsung Kim,Dukjae Moon,Wonil Lee,Seokhie Hong,Sangjin Lee,Seokwon Jung</authors>
+		<label>74</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chang Han Kim,Sangho Oh,Jongin Lim</authors>
+		<label>74</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyun-jeong Kim,Dong Hoon Lee,Moti Yung,Privacy against</authors>
+		<label>74</label>
+	</publication>
+	<publication>
+		<authors>Changhoon Lee,Deukjo Hong,Hyung-Jin Yang,Jongin Lim,Sangjin Lee</authors>
+		<label>74</label>
+	</publication>
+	<publication>
+		<authors>Jongin Lim,Kyungdeok Hwang,Sangjin Lee,Wonil Lee</authors>
+		<label>74</label>
+	</publication>
+	<publication>
+		<authors>Dukjae Moon,Kyungdeok Hwang,Wonil Lee,Sangjin Lee,Jongin Lim</authors>
+		<label>74</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Young-Ho Park,Sangtae Jeong,Jongin Lim</authors>
+		<label>74</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Young-Ho Park,Sangtae Jeong,Chang Han Kim,Jongin Lim</authors>
+		<label>74</label>
+	</publication>
+	<publication>
+		<authors>Young-Ho Park,Sangho Oh,Sangjin Lee,Jongin Lim,Maenghee Sung</authors>
+		<label>74</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Young-Ho Park,Sangtae Jeong,Jongin Lim</authors>
+		<label>74</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Young-Ho Park</authors>
+		<label>74</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>75</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hong Seong Park,Wook Hyun Kwon,Young Sin Kim</authors>
+		<label>75</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Economic Development through Knowledge Creation - The Case of Korea</authors>
+		<label>76</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Byung Su Kang,Tae Kyung Sung</authors>
+		<label>76</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>77</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Bum-Jae You,Gregory D Hager</authors>
+		<label>77</label>
+	</publication>
+	<publication>
+		<authors>Hong-Gu Ahn,Jae-Sung Lim,Myung-Sung Lee,Sang-Yun Lee,Sung Kim</authors>
+		<label>78</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hong Gu Ahn,Jae Sung Lim,Seung Hwan Kwak,Sung Kim</authors>
+		<label>78</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Lisa Deerr Li</authors>
+		<label>79</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Tom Middleton</authors>
+		<label>79</label>
+	</publication>
+	<publication>
+		<authors>H C Nam,J Kim,S J Hong,S Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>K W Nam,S Lee,J Kim</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>H C Nam,J Kim,S J Hong,S Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>Y J Nam,C I Park,S Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>H S Chae,J Kim,S J Hong,S Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>K Nam,J Seo,S Lee,J Kim</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S H Chae,J Kim,D S Kim,S J Hong,S Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>Y J Nam,S Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Real-time wormhole channels</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>J W Seo,S Lee,J Kim</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>H W Kim,H S Lee,S Lee,J Kim</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jaewon Seo,Jong Kim</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>Ho Won Kim,Hyun Suk Lee,Jong Kim</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jong Kim,SangHo Chae,Sung Je Hong</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jaewon Seo,Jong Kim,Kyungwan Nam</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dongseung Kim,Jong Kim,SangHo Chae,Sung Je Hong</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jaewon Seo,Jong Kim,Kyungwan Nam</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jong Kim,Sung Je Hong,WanYeon Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kang G Shin</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sang Cheol Kim</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kang G Shin</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kang G Shin</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kang G Shin</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kang G Shin</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>M H Sunwoo,B D Ahn,S H Ong,S Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S C Kim,S Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>J Kim,H Lee,S Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jong Kim</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jong Kim</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jong Kim,Kyungwan Nam</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>B Kim,J Kim,S Hong,S Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jong Kim,O-Hoon Kwon,Sung Je Hong</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>J Kim,H Lee,S Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>O H Kwon,J Kim,S J Hong,S Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>Sunggu Lee,Computer Design: An Example of Advanced Digital Logic Design,Prentice-Hall,Upper Saddle River,NJ</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>H S Lee,H W Kim,J Kim,S Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,K G Shin</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>W Y Lee,S J Hong,J Kim,S Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Probabilistic Multiprocessor,Multicomputer Diagnosis,Ph D Thesis,University of Michigan</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>H Lee,J Kim,S J Hong,S Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,K G Shin</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Y J Nam</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,K G Shin</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,K G Shin</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,K G Shin</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,K G Shin</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Heejo Lee,Jong Kim</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Heejo Lee,Jong Kim,Sung Je Hong</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>Y K Lee,S Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J Kim</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J Kim</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,K W Nam,S J Hong,J Kim</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yun-kyung Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,K G Shin</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,K G Shin</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,K G Shin</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Heejo Lee,Jong Kim</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Heejo Lee,Jong Kim,Sung Je Hong</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Heejo Lee,Jong Kim,Sung Je Hong</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>H Lee,J Kim,S J Hong,S Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>Dong Hyeon Cheon,Kyung Hwan Park,Sangjin Lee,Seok Hie Hong,Seonhee Yoon</authors>
+		<label>80</label>
+	</publication>
+	<publication>
+		<authors>Dong Hyeon Cheon,Jong In Lim,Sangjin Lee</authors>
+		<label>80</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Azizan Aziz,Jayakrishna Shankavaram,Vivian Loftness,Volker Hartkopf</authors>
+		<label>81</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Ardeshir Mahdavi,Azizan Aziz,Jayakrishna Shankavaram,Paul Mathew,Vivian Loftness,Volker Hartkopf</authors>
+		<label>81</label>
+	</publication>
+	<publication>
+		<authors>Jong-Won Lee,Kuhn-Il Lee,Seoug-Geun Kwon,Suk-Hwan Lee</authors>
+		<label>82</label>
+	</publication>
+	<publication>
+		<authors>S Lee,In-Sung Ha,Ki-Ryong Kwon,Kuhn-Il Lee,Seong Geun Kwon</authors>
+		<label>82</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jaehoon Jeong,Yanghee Choi,Yongjin Kim</authors>
+		<label>83</label>
+	</publication>
+	<publication>
+		<authors>S Lee,ByongChul Kim,JaeYong Lee,KyeongJin Lee,Yongjin Kim</authors>
+		<label>83</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dong Ah Kim</authors>
+		<label>84</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jeonghee Kim,Taisook Han</authors>
+		<label>84</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>85</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>85</label>
+	</publication>
+	<publication>
+		<authors>S Lee,James C Morizio,Kristina M Johnson</authors>
+		<label>86</label>
+	</publication>
+	<publication>
+		<authors>S Lee,James C Morizio,Kristina M Johnson</authors>
+		<label>86</label>
+	</publication>
+	<publication>
+		<authors>S Lee,N G Azari,A W Bojanczyk,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chung-Ming Chen</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,C -M Chen,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,C M Chen,S -Y Lee,Z H Cho</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,C M Chen,S -Y Lee,Z H Cho</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,C M Chen,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,C M Chen,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chung-Ming Chen</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,C M Chen,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Chung-Ming Chen</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Z H Cho,C M Chen,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,C -H Cho</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Z H Cho,C M Chen,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Z H Cho,K S Hong,J B Ra,S -Y Lee,S K Hilal,J Correll</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,B D Cook</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Gautam Ghare</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,G D Ghare,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J K Aggarwal</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J K Aggarwal</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Jun Huang</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Nasser G Azari</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J C Jacob,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,N G Azari,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Joseph C Jacob</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,N G Azari,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,N G Azari,S -Y Lee,N F Otani</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,N G Azari,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Nasser G Azari</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J C Jacob,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J C Jacob,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J C Jacob,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,J Jacob,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Josep C Jacob</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -Y Lee,G D Ghare</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,K G Lee,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -Y Lee,N G Azari</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -Y Lee,J K Aggarwal</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -Y Lee,J K Aggarwal</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -Y Lee,J K Aggarwal</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -Y Lee,C M Chen</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -Y Lee,J K Aggarwal</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -Y Lee,J K Aggarwal</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -Y Lee,S Yalamanchili,J K Aggarwal</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -Y Lee,H D Chiang,K G Lee,B Y Ku</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -Y Lee,C M Chen</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -Y Lee,K G Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,K -G Lee,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kyung-Geun Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -Y Lee,J K Aggarwal</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S -Y Lee</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Hyoung Seok Kim,Yunjin Lee</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Junho Kim</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Junho Kim</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>Y Lee,S Lee</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,K Y Chwa,J Hahn,S Y Shin</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,K Y Chwa,J Hahn,S Y Shin</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,G Wolberg,K Y Chwa,S Y Shin</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,K Y Chwa,S Y Shin,G Wolberg</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>Y Lee,H S Kim,S Lee</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,S Y Shin</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,G Wolberg,S Y Shin</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,G Wolberg,S Y Shin</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Interactive Multiresolution Editing of Arbitrary Meshes</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Gyuhwan Oh,Sung Yong Shin</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Gyuhwan Oh</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>T -J Park,S Lee,S Y Shin</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Sung Yong Shin,Tae-Joon Park</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,George Woberg,Kyung-Yong Chwa,Sung Yong Shin</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,George Wolberg,Sung Yong Shin</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Minsu Ahn</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Baek,S Lee,G J Kim</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Dongsik Cho,Gerard Jounghyun Kim,Jihye Park,Sangwoo Hong,Sungho Han</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yongchoel Choi</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Yongchoel Choi</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Kyung-Yong Chwa,Sung Yong Shin</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,Baining Guo,Eunhee Jeong,Mincheol Yoon,Minsu Ahn,Yunjin Lee</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>S Lee,James K Hahn,Kyung-Yong Chwa,Sung Yong Shin</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>K Jeong,S Lee</authors>
+		<label>9</label>
+	</publication>
+</person>

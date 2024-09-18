@@ -1,0 +1,5064 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>Y Chen</FullName>
+	<publication>
+		<authors>Yu-Chin Hsu,Bassam Tabbara,Yirng-An Chen,Furshing Tsai</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Chien-Pang Lu,Wen-Chien Liu,Yirng-An Chen</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Bassam Tabbara,Furshing Tsai,Yu-Chin Hsu</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Bwolen Yang,David R O'Hallaron,Randal E Bryant</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Randal E Bryant</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Randal E Bryant,Yirng-An Chen</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Randal E Bryant</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Yirng-An Chen,Randal E Bryant</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Randal E Bryant,Yirng-An Chen</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Yirng-An Chen,P -H Ho,E Clark,T Kam,Y Hoskote,J O'Leary,M Khaira</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Randal E Bryant,Yirng-An Chen</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Yirng-An Chen,Fang-Sung Chen</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Randal E Bryant</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Jiunn-Chern Chen,Yirng-An Chen</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Long-Wen Chang,Youn-Long Lin</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Yirng-An Chen,Randal E Bryant</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Yirng-An Chen,Bwolen Yang,Randal E Bryant</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Yirng-An Chen,Young-Long Lin</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Yirng-An Chen,Randal E Bryant</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Yirng-An Chen,Randal E Bryant</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Yirng-An Chen,Randal E Bryant</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Yirng-An Chen,Young-Long Lin,Long-Wen Chang</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Edmund M Clarke,John W O'Leary,Manpreet Khaira,Pei-Hsin Ho,Timothy Kam,Xudong Zhao,Yatin Vasant Hoskote</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>Noel Mendoza,Yen-Wei Chen,Zensho Nakao,Tatsuhiro Adachi</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Noel Mendoza,Y -W Chen,Z Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Noel Mendoza,Yen-Wei Chen,Jeng-Shyang Pan</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,T Miyagi,Z Nakao,Y -W Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Shinya Nozaki,Zensho Nakao,Yen-Wei Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,N Miyanaga,Y -W Chen et al</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Shinya Nozaki,Tetsuya Kohatsu,Yen-Wei Chen,Zensho Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Hiroaki Monma,Yen-Wei Chen,Zensho Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Shinya Nozaki,Yen-Wei Chen,Zensho Nakao,Shinsuke Fujioka,Hiroyuki Shiraga</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,H Nagamoto,F Ali,Z Nakao,Y -W Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,S Nozaki,Y -W Chen,Z Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Shinya Nozaki,Yen-Wei Chen,Zensho Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Shinya Nozaki,Yen-Wei Chen,Zensho Nakao,Hiroyuki Shiraga</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Midori Takashibu,Zensho Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,S Tobaru,F Ali,Z Nakao,Y -W Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,N Wang,Y -W Chen,Z Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Ning Wang,Yen-Wei Chen,Zensho Nakao,Shinichi Tamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,Y Izawa,S Nakai,C Yamanaka</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,H Niki,S Adachi,Y Izawa,S Nakai,C Yamanaka</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,H Arakawa,Z Nakao,K Yamashita,R Kodama</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,R Kodama,Z Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Yen-Wei Chen,Ning Wang</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,Z Nakao,X Fang</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,Z Nakao,X Fang,S Tamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,Z Nakao,X Fang</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,M Nakai,S Shinohara,M Katayama,Y -W Chen,S Kobayashi,N Miyanaga,K Tanaka,K Nishihara,M Yamanaka,T Yamanaka,S Nakai</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,T Enokura,N Mendoza,Z Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,M Nakai,M Yamanaka,H Azechi,Y -W Chen,T Jitsuno,M Katayama,K Mima,N Miyanaga,H Nakaishi,M Nakatsuka,A Nishiguchi,P A Norreys,Y Setsuhara,M Takagi,T Norimatsu,T Yamanaka,S Nakai</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,Z Nakao,K Arakaki,I Nakamura,S Tamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Z Nakao,Y -W Chen,T Tengan,M Kinjo</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Z Nakao,M Takashibu,Y -W Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Z Nakao,Y -W Chen,M Takashibu,Y Kina</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Z Nakao,Y -W Chen,F Ali</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Z Nakao,Y -W Chen,M Takashibu,Y Kina</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,N Wang,Y -W Chen,Z Nakao,S Tamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Z Nakao,Y -W Chen,F Ali</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,N Wang,L Liu,Y -W Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Z Nakao,Y -W Chen,T Tengan</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,N Wang,Y -W Chen,Z Nakao,S Tamura,H Aritome</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Z Nakao,Y -W Chen,M Noborikawa,S Tobaru,T Tengan</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,S Yamauchi,Y -W Chen,Z Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Xiang-Yan Zeng,Zensho Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Xiang-Yan Zeng,Yen-Wei Chen,Zensho Nakao,Hanqing Lu</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Xiang-Yan Zeng,Yen-Wei Chen,Zensho Nakao,Hanqing Lu</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Xiang-Yan Zeng,Yen-Wei Chen,Zensho Nakao,Hanqing Lu</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,Z Nakao,K Arakaki,S Tamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,Z Nakao,K Arakaki,S Tamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,Z Nakao,M Iguchi,S Tamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,K Otsuki,Z Nakao,R Kodama</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,K Otsuki,Z Nakao,R Kodama</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Yen-Wei Chen,Shusuke Narieda,Katsumi Yamashita</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,N Miyanaga,M Yamanaka,H Azechi,K Nishihara,T Yamanaka,S Nakai,C Yamanaka</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>T Y Chen,T C Yang,Y -W Chen,B Y Liao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,Z Nakao,K Arakaki,S Tamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,Z Nakao,K Arakaki,S Tamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,S Yamauchi,N Wang,Z Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,K Nomaru,K Kou,Y Izawa,S Nakai,C Yamanaka</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y-W Chen,Z Nakao,K Arakaki,X Fang,S Tamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Yen-Wei Chen,Noel Mendoza,Shinyu Uehara,Zensho Nakao,Tatsuhiro Adachi,Yoshihisa Masuda</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,N Miyanaga,M Yamanaka,M Nakai,K A Tanaka,K Nishihara,T Yamanaka,S Nakai</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Z Nakao,Y -W Chen,Y Kina</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,N Miyanaga,M Yamanaka,M Nakai,T Yamanaka,S Nakai</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Makoto Nakasone,Midori Takashibu,Yasuyuki Kina,Zensho Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,M Yamanaka,N Miyanaga,T Yamanaka,S Nakai,C Yamanaka,S Tamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,M Nakasone,F Ali,Z Nakao,Y -W Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,S Narieda,Y -W Chen,K Yamashita</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,H Niki,N E S Aly,K Kou,K Nomaru,Y -W Chen,Y Izawa,S Nakai,C Yamanaka</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,M Noborikawa,F Ali,Z Nakao,Y -W Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,K Nomaru,Y Izawa,Y -W Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,K Nomaru,Y -W Chen,Y Izawa,S Nakai,C Yamanaka</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,K Noumaru,Y -W Chen,Y Izawa,S Nakai,C Yamanaka</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,K Noumaru,Y -W Chen,Y Izawa,S Nakai,C Yamanaka</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,F Ali,M Nakasone,H Nagamoto,S Tobaru,M Noborikawa,Z Nakao,Y -W Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,F F Ali,S Yokegawa,Z Nakao,Y -W Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Fath El Alem F Ali,Zensho Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,F F Ali,Z Nakao,Y -W Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,F F Ali,K Matsuo,Z Nakao,Y -W Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,F Ali,Z Nakao,Y -W Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,T Enokura,Z Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,N S Aly,K Noumaru,Y -W Chen,H Niki,Y Izawa,S Nakai</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Yen-Wei CHEN,Xiang-Yan ZENG,Zensho NAKAO</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Kouichi Arakaki,Shinichi Tamura,Zensho Nakano</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,Z Nakao,M Iguchi,S Tamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,H Arakawa,Y -W Chen,Z Nakao,K Yamashita,I Nakamura,S Tamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,Z Nakao,K Arakaki</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Yen-Wei Chen,Xiang-Yan Zeng,Zensho Nakao,Hanqing Lu</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,N Miyanaga,M Yamanaka,T Yamanaka,S Nakai,T Iguchi,M Nakazawa,T Iida,S Tamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Yen-Wei Chen,Noel Mendoza</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Yen-Wei Chen,Noel Mendoza,Zensho Nakao,Tatsuhiro Adachi</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,Z Nakao,S Tamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,T Enokura,Z Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Tatsuro Enokura,Yen-Wei Chen,Zensho Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,X -Y Zang,Z Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Xue Fang,Zensho Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y Izawa,Y -W Chen,K Noumaru,N S Aly,K Kou,H Niki,S Nakai,C Yamanaka</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y Kawano,Z Nakao,Y -W Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y Kawano,Z Nakao,Y -W Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,K Kishimoto,Y -W Chen,Z Nakao,I Nakamura,S Tamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,K Kishimoto,Y -W Chen,Z Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>N Kitabatake,Y-W Chen,Z Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Tetsuya Kohatsu,Shinya Nozaki,Yen-Wei Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,T Enokura,Z Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,Z Nakao,M Iguchi</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,Z Nakao,K Arakaki,S Tamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,Z Nakao,I Nakamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,K Nomaru,K Kou,Y Izawa,S Nakai,C Yamanaka</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,R Kodama,T Matsushita</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,M Yamanaka,N Miyanaga,H Azechi,S Ishikawa,T Yamanaka,S Naka,S Tamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Yen-Wei Chen,Xiang-Yan Zeng,Zensho Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,R Lin,Y -W Chen,K Teruya,I Nakamura,H Higa,Z Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Hanqing Lu,Xiang-Yan Zeng,Zensho Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -W Chen,Z Nakao,M Iguchi,S Tamura</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Noel Mendoza,Yen-Wei Chen,Zensho Nakao</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chauchin Su,Shyh-Jye Jou,Yuan-Tzu Ting</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chauchin Su,Chung-Len Lee</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>Chauchin Su,Shing Tenchen,Yi-Ren Cheng</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chauchin Su,Shyh-Jye Jou</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chauchin Su,Shyh-Jye Jou</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chauchin Su,Shung-Won Jeng</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chauchin Su,Chung-Len Lee,Gen-Nan Chen,Mu-Jeng Huang</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C L Lee,J R Chen</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C L Lee,H Y Liao</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,H C Hong</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,H C Hong</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,H C Hong</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,T I Chen</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Tsau Young Lin</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Cheng-Yan Kao,Jinn-Moon Yang,Jorng-Tzong Horng</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,A Singh,D E Goldberg,Y -p Chen</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,A Sinha,Y -p Chen,D E Goldberg</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J -M Yang,Y -p Chen,J -T Horng,C -Y Kao</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Ali Yassine,David E Goldberg,Tian-Li Yu</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,T -L Yu,D E Goldberg,A A Yassine,Y -p Chen</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,T -L Yu,D E Goldberg,A A Yassine,Y -p Chen</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,T -L Yu,Y -p Chen,D E Goldberg</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -p Chen,D E Goldberg</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -p Chen,D E Goldberg</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -p Chen,D E Goldberg</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -p Chen</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -p Chen,D E Goldberg</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -p Chen,J -T Horng,C -Y</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -p Chen,D E Goldberg</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,David E Goldberg</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,David E Goldberg</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J -T Horng,Y -p Chen,C -Y Kao</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,David E Goldberg</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W -r Jih,Y -p Chen,J Hsu</authors>
+		<label>14</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chia-Tai Chan,Pi-Chung Wang,Wei-Chun Tseng</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chia-Tai Chan,Pi-Chung Wang,Wei-Chun Tseng</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chia-Tai Chan,Pi-Chung Wang,Shuo-Cheng Hu,Yu-Chen Shin</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chia-Tai Chan,Pi-Chung Wang</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chia-Tai Chan,Pi-Chung Wang</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chia-Tai Chan,Pi-Chung Wang</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Jin-Ru Chen</authors>
+		<label>15</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Mumin Song,Ning Xi,Weihua Sheng</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,James S Rankin III,Mumin Song,Ning Xi,Weihua Sheng</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Heping Chen,Mumin Song,Ning Xi,Weihua Sheng</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Klaus-Peter Beier</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Fuhua Cheng,Jun-Hai Yong,Kenjiro T Miura,Paul Stewart</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Dimitris Papageorgiou,Klaus-Peter Beier</authors>
+		<label>16</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,D F Wong</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Ashih D Mehta,D F Wong,Lawrence T Pileggi,Noel Menezes</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,D F Wong</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,D F Wong,Ting-Chi Wang</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,D F Wong</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chung-Ping Chen,D F Wong</authors>
+		<label>17</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G W Chang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y J Chang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y J Chang,C C Chen,J C Chou,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G W Chang,Y C Chen,K L Huang</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y J Chang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,S Chang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y J Chang,C C Chien,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y J Chang,C C Chen,J C Chou,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y J Chang,C C Chen,J C Chou,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C M Wu,Y C Chen,K S Hsieh</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C M Wu,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C M Wu,Y C Chen,K S Hsieh</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C M Wu,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J K Hwang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J K Hwang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C M Wu,W S Chou,Y C Chen,K S Hsieh</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C M Wu,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J K Hwang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C M Wu,Y C Chen,K S Hsieh</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J K Hwang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,T F Yang,J K Hwang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen J -F Kiang,L G Shi</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C M Chen,Y C Chen,H H Shen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,T F Yang,J K Hwang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,M F Lan,Y C Chen,Y C Chuang,E Hsi</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,C M Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y R Yang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W L Lee,Y C Chen,K S Hsieh</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,C H Chou</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W L Lee,Y C Chen,K S Hsieh</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,H H Shen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,F C Leou,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,H H Shen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,F J Leou,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,C H Chou</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chih-Chung Chen,Jen-Chung Chou,Yao-Jen Chang</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,H L Pang And Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W S Cho J W YU,W N Lie,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Li,T H Wu,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Li,T H Wu,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Li,Y C Huang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Li,Y C Huang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,C W Yang,C F Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W L Li,Y C Chen,K S Hsieh</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,C H Li</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Li,Y J Chang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,T I Liu</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Li,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,C F Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Li,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>W Y Chen,W N Lie,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,T J Liao,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C W Chen,T S Hwang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C M Liaw,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,C H Chou,L K Liu</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,C H Chou,L K Liu</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C W Liaw,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C M Liaw,C T Pan,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C M Liaw,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C J Lie,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W N Lie,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,C H Chou</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W N Lie,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,Th Gast</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W N Lie,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,C F Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W N Lie,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W N Lie,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C F Chen,W S Chou,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C W Lin,Y C Chen,M T Sun</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,H L Wang</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C D Chen,C H Chou,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,C C Lin</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C F Chen,W S Chou,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,C C Lin</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,T I Liu</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J S Chen,W N Lie,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,W L Lee</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C W Lin,T J Liou,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C W Lin,Y C Chen,M T Sun</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C W Lin,Y J Chang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J W Lin,Y C Chen,C L Wang</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C W Lin,Eryin Fei,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J W Lin,Y C Chen,C L Wang</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C W Lin,Y C Chen,C L Wang</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C W Lin,Y J Chang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C W Lin,E Y Fei,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,S H Huang</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W X Lin,C W Lin,Y J Chang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,M F Tsai</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>W Y Chen,W N Lie,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,Y C Chen,A S Chiang</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,S W Jeng</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y J Chang,Y C Li,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G W Chang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y J Chang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Yao-Jen Chang</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C H Cheng,Y J Chang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G W Chang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chien-Chia Chien,Yao-Jen Chang</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G W Chang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C H Chou,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G W Chang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W S Chou,Y C Chen,K S Hsieh</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y J Chang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C W Lin,Y J Chang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J J Lin,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C W Lin,W X Lin,Y C Chen,M T Sun</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C W Lin,W H Wang,Y C Chen,M T Sun,Jenq-Neng Hwang</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>W Y Chen,W N Lie,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C W Lin,Y J Chang,Y C Chen,M T Sun</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>W Y Chen,W N Lie,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J W Lin,Y C Chen,C L Wang</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,W N Lie</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,F L Lin,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,W N Lie</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C W Lin,Y J Chang,C M Wang,Y C Chen,M T Sun</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,W N Lie</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C W Lin,Eryin Fei,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,Th Gast</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C W Lin,Eryin Fei,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,H B Yu</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W S Chou,C M Wu,Y C Chen,K S Hsieh</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J C Chou,Y J Chang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C H Chou,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C H Chou,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C H Chou,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C H Chou,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W S Chou,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,N C Lin</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C H Chou,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W S Chou,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W S Chou,C M Wu,Y C Chen,K S Hsieh</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y S Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,C F Rau</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C M Lin,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,T C Liu,Y C Li,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Image Processing,</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,H C Ting,C H Chou,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,on Automatic Control</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y T Wang,C K Hwang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y F Hs u an d Y C Ch en</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W H Wang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y F Hsu,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y F Hsu,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W H Wang,W N Lie,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,C F Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y Wang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y F Hsu,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W H Wang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y F Hsu,C J Huang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Wen-Hao Wang</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y F Hsu,C H Hsieh,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y F Hsu,Y C Chen,C J Huang,M J Sun</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W T Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y F Hsu,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y F Hsu,C H Hsieh,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,H C Wang,J -F Kiang,M K Tsai</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C M Wang,Y J Chang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J W Wang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W H Wang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y T Wang,J K Hwang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y F Hsu,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W H Wang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y F Hsu,M J Sun,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C H Huang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W H Wang,Y C Chen,W N Lie</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W H Wang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,M Y Huang,C W Lin,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W H Wang,Y C Chen,W N Lie</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,M Y Huang,C W Lin,Y C Chen,E Y Fei</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C C Chen,Y J Chang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W Z Wu,W N Lie,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,H Y Huang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,Th Gast</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C M Wu,W S Chou,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J K Hwang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J K Hwang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J K Hwang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J K Hwang,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,W H Wang</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,J -F Kiang,M K Tsai,L G Shi,P K Liaw</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen</authors>
+		<label>18</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,S Gabriela,P P Chong</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J M Pruett</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,R T Justis</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C R Mount,T W Liao</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,D Leleux,B Ives</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,P P Chong,Y Tong</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>A Chatranon,J Chen,P P Chong,Y Chen</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,P P Chong,R T Justis</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,R L Burford</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,R T Justis,P P Chong</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,P P Chong,R T Justis</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,R T Justis,P P Chong</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,S Hammerstein,R T Justis</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,P P Chong,R T Justis</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,K Tang</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C Ford,R T Justis,P P Chong</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,P P Chong,J Chen</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>P P Chong,Y Chen,R T Justis</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>P P Chong,Y Chen,R T Justis</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>P P Chong,Y Chen,J M Pruett</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>P P Chong,Y Chen,R T Justis</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>P P Chong,Y Chen,A M M Jamal</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>P P Chong,J Chen,Y Chen</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>R T Justis,M Tuunanen,Y Chen,G Castrogiovanni</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>R T Justis,Y Chen,P P Chong</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Ferdinand F Leimkuhler</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chitu Okoli,P Pete Chong</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Mysore Ramaswamy,Sumit Sarkar</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Morgan Y Tong,P Pete Chong</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Morgan Y Tong,P Pete Chong</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Edward Watson,Ying Shi</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Yao,M Wohl,E Watson,Y Chen</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>B Zhang,Y Chen</authors>
+		<label>19</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Duren Che,Karl Aberer</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Dunren Che,Hannelore Eisner,Karl Aberer</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>D Che,K Aberer,Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Dunren Che,Karl Aberer</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,D Che,K Aberer</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G Huck</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Gerald Huck</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Gerald Huck</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen Ron McFadyen,F Chan</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Speeding up the Counting Method by Computing Heritage Functions in Topological Order</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,On the Graph Traversal and Linear Binary-Chain Programs</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Arc Consistency Revisited</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Signature files and signature trees</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G Huck</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,K Aberer</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,T Härder</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,T Liu</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G Huck</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,T Härder</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,T Härder</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,D Che,K Aberer</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,K Aberer</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Karl Aberer</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Karl Aberer</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Wolfgang Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>W Benn,Y Chen,I Gringer</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,K Aberer</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Wolfgang Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Wolfgang Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>W Benn,Y Chen,I Gringer</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Wolfgang Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Wolfgang Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,T Härder</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G Huck</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,T Härder</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,T Härder</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,W Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Graph Decomposition and Recursive Closures</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,A New Algorithm for Transitive Closures and Computation of Recursion in relational Databases</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,A Bottom-up Query Evaluation Method for Stratified Databases</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,On the Computation of Recursion in Relational Databases</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Theo H&auml,rder</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Theo H&auml,rder</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Evaluating Linear Binary Programs by Traversing Automaton Hierarchy</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Wolfgang Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Wolfgang Benn</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>W Benn,Y Chen,I Gringer</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Fung-Yee Chan,Ron McFadyen</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>D Che,Y Chen,K Aberer</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>D Che,Y Chen,K Aberer</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Alexander Zelikovsky,Andrew B Kahng,Gabriel Robins</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Alexander Zelikovsky,Andrew B Kahng,Gang Qu</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Alexander Zelikovsky,Andrew B Kahng,C Bandela,Ion I Mandoiu</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Andrew B Kahng,Puneet Gupta</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Alexander Zelikovsky,Andrew B Kahng,Gabriel Robins</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Alexander Zelikovsky,Andrew B Kahng,Gabriel Robins,Yuhong Zheng</authors>
+		<label>20</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Zhongshi He</authors>
+		<label>21</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Zhongshi He</authors>
+		<label>21</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Modelling Software Operational Reliability via Input Domain-Based Reliability Growth Model</authors>
+		<label>21</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Conrad Mueller,Roger Mateer,Scott Hazelhurst,Vashti Galpin</authors>
+		<label>21</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Klaus Echtle,Winfried G&ouml,rke</authors>
+		<label>21</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Klaus Echtle,Winfried B&uuml,cken</authors>
+		<label>21</label>
+	</publication>
+	<publication>
+		<authors>Yi-Shin Chen,Cyrus Shahabi</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Yi-Shin Chen,Cyrus Shahabi</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Craig A Knoblock,Cyrus Shahabi,Dan DiPasquo,Greg Barish,Ion Muslea,Steven Minton</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Andrew Philpot,Craig A Knoblock,Cyrus Shahabi,Greg Barish,Steven Minton</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Andrew Philpot,Craig A Knoblock,Cyrus Shahabi,Greg Barish,Steven Minton</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Cyrus Shahabi,Yi-Shin Chen</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Cyrus Shahabi,Yi-Shin Chen</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Cyrus Shahabi,Yi-Shin Chen</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Cyrus Shahabi,Yi-Shin Chen</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Cyrus Shahabi,Yi-Shin Chen</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Cyrus Shahabi,Farnoush Banaei-Kashani,Yi-Shin Chen,Dennis McLeod</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Greg Barish,Craig A Knoblock,Yi-Shin Chen,Steven Minton,Andrew Philpot</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Greg Barish,C Knoblock,Y Chen,S Minton,A Philpot,C Shahabi</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Greg Barish,Yi-Shin Chen,D DiPasquo,Craig A Knoblock,Steven Minton,I Muslea,Cyrus Shahabi</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Gully Burns,Arshad Khan,Shahram Gandeharizadeh,Mark O¡¦Neil,Yi-Shin Chen</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Yi-Shin Chen,Cyrus Shahabi</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Yi-Shin Chen,Jiah-Shing Chen,Fang-Cheng Hsu</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>Jiah-Shing Chen,Yi-Shin Chen,Ya-Wen Chen,Gun-Yi Wu</authors>
+		<label>22</label>
+	</publication>
+	<publication>
+		<authors>C Liu,M Zhang,M Zheng,Y Chen</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>J Sheng,J Cheng,Y Chen</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>J Sheng,J Cheng,Y Chen</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Benjamin W Wah</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>B W Wah,Y Chen</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>B W Wah,Y Chen</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>B W Wah,Y Chen</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>B W Wah,Y Chen</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Benjamin W Wah,Guozhu Dong,Jianyong Wang,Jiawei Han</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Benjamin W Wah,Guozhu Dong,Jian Pei,Jianyong Wang,Jiawei Han</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>B W Wah,Y Chen</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>B W Wah,Y Chen</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,B W Wah</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,B W Wah</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G Dong,J Han,J Pei,B W Wah,J Wang</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G Dong,J Han,B W Wah,J Wang</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,B W Wah,J Han</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>L Chen,Y Chen</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>L Chen,Y Chen</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G Dong,J Han,J Pei,B W Wah,J Wang</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,B W Wah</authors>
+		<label>23</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Concurrent Detection of Processor Control Errors by Hybrid Signature Monitoring</authors>
+		<label>24</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Shambhu J Upadhyaya</authors>
+		<label>24</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Ching-Hwa Cheng,Shambhu J Upadhyaya</authors>
+		<label>24</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Shambhu J Upadhyaya</authors>
+		<label>24</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Shambhu J Upadhyaya</authors>
+		<label>24</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Ching-Hwa Cheng,Yung-Ci Chou</authors>
+		<label>24</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Ian D Walker</authors>
+		<label>25</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Jeffrey C Trinkle</authors>
+		<label>25</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Ian D Walker</authors>
+		<label>25</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Ian D Walker</authors>
+		<label>25</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Kevin A O'Neil</authors>
+		<label>25</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Kevin A O'Neil</authors>
+		<label>25</label>
+	</publication>
+	<publication>
+		<authors>Yuanda Cao,Yifeng Chen</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Yuanda Cao,Yifeng Chen</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Yifeng Chen,Zhuoqun Xu</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Yifeng Chen,Yuanda Cao</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Yifeng Chen,J W Sanders</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Yifeng Chen,J W Sanders</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Yifeng Chen,Zhiming Liu</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Yifeng Chen,J W Sanders</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Yifeng Chen,Zhiming Liu</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Yifeng Chen,J W Sanders</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,How to Write a Healthiness Condition</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Yanxiang He</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Z Liu,J He,X Li,Y Chen</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,A ixpoint Theory for Non-monotonic Parallelism</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,A fixpoint theory for non-monotonic parallelism</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Jeff W Sanders</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Jeff W Sanders</authors>
+		<label>26</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Abdel G Elkahloun,Abdelghani Bellaachia,David Portnoy</authors>
+		<label>27</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Edward R Dougherty,Jeffrey M Trent,Junior Barrera,Marcel Brun,Michael L Bittner,Roberto Marcondes Cesar Junior,Seungchan Kim</authors>
+		<label>27</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Edward R Dougherty,Jeffrey M Trent,Junior Barrera,Michael L Bittner,Seungchan Kim</authors>
+		<label>27</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Edward R Dougherty,Jeffery M Trent,Michael L Bittner,Paul S Meltzer,Vishnu Kamat</authors>
+		<label>27</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Gregory T Klus,Mattias Wahde,Michael L Bittner,Zoltan Szallasi</authors>
+		<label>27</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,X Chen,Z L Ji</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,A Muhammad,C J Zhen,H S Puy,L X Yao,L Y Han,P C Chung,W K Yeo,X Chen,Y T Tay,Z L Ji</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C Z Cai,L Y Han,X Chen,Z L Ji</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,D G Zhi,X Chen,Z L Ji</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J F Wang,L Z Sun,X Chen,Z L Ji</authors>
+		<label>28</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chiou-Shann Fuh,Yi-Ping Hung</authors>
+		<label>29</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chiou-Shann Fuh,Yi-Ping Hung</authors>
+		<label>29</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chiou-Shann Fuh,Sheng-Wen Shih,Yi-Ping Hung</authors>
+		<label>29</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chiou-Shann Fuh,Chu-Song Chen,Kuan-Chung Hung,Yi-Ping Hung</authors>
+		<label>29</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,An-Ting Tsao,Chiou-Shann Fuh,Yi-Ping Hung</authors>
+		<label>29</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Eleftherios Koutsofios,Glenn S Fowler,Ryan S Wallach</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Eleftherios Koutsofios,Jeffrey L Korn</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Eleftherios Koutsofios</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Eleftherios Koutsofios,Fred Douglis,Thomas Ball</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Eleftherios Koutsofios</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Eleftherios Koutsofios,Fred Douglis,Thomas Ball</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Balachander Krishnamurthy,Kiem-Phong Vo</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Mancoridis,B S Mitchell,Y Chen,E Gansner</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>S Mancoridis,B S Mitchell,C Rorres,Y-F Chen,E Gansner</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Brian S Mitchell,Emden R Gansner,Spiros Mancoridis</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Brian S Mitchell,C Rorres,Emden R Gansner,Spiros Mancoridis</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Charles J Petrie</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C V Ramamoorthy,Michael Y Nishimoto</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Herman Chung-Hwa Rao,Huale Huang,Ming-Feng Chen</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>H Rao,Y Chen,D Chang,M Chen</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>H Rao,Y Chen,M Chen</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Herman Chung-Hwa Rao,Ming-Feng Chen</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Herman Chung-Hwa Rao,Josie Chang,Ming-Feng Chen</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>David G Belanger,Yih-Farn Chen,N Fildes,Balachander Krishnamurthy,Paul H Rank,K -P Vo</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Herman Chung-Hwa Rao,Josie Chang,Ming-Feng Chen</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Adam L Buchsbaum,Anne Rogers,Eleftherios Koutsofios,Huale Huang,John Mocenigo,Michael Jankowsky,Spiros Mancoridis</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,David S Rosenblum,Kiem-Phong Vo</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>A Buchsbaum,Y Chen,H Huang,E Koutsofios,J Mocenigo,A Rogers,M Jankowsky,S Mancoridis</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Di-Fa Chang,Herman Chung-Hwa Rao,Ming-Feng Chen</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Di-Fa Chang,Herman Chung-Hwa Rao,Ming-Feng Chen</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Yih-Farn Chen,Emden Gansner,Eleftherios Koutsofios</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Yih-Farn Chen,Glenn S Fowler,Eleftherios Koutsofios,Ryan S Wallach</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Yih-Farn Chen,Huale Huang,Bin Wei,Ming-Feng Chen,Herman Rao</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Yih-Farn Chen,Huale Huang,Rittwik Jana,Trevor Jim,Matti Hiltunen,Radhakrishnan Muthumanickam,Sam John,Serban Jora,Bin Wei</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Yih-Farn Chen,Eleftherios Koutsofios</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Yih-Farn Chen,Balachander Krishnamurthy,Kiem-Phong Vo</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Yih-Farn Chen,Glenn Fowler,David Korn,Eleftherios Koutsofios,Stephen North,David Rosenblum,Kiem-Phong Vo</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Yih-Farn Chen,Huale Huang,Rittwik Jana,Sam John,Serban Jora,Amy Reibman,Bin Wei</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -F Chen,M Nishimoto,C Ramamoorthy</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Kiem-Phong Vo,Yih-Farn Chen</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,F Douglis,H Huang,K Vo</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Bin Wei,Huale Huang,Matti A Hiltunen,Radhakrishnan Muthumanickam,Rittwik Jana,Sam John,Serban Jora,Trevor Jim</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Yih-Farn Chen,David Rosenblum,Kiem-Phong Vo</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>P Devanbu,Y-F Chen,E Gansner,H Muller,J Martin</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Fred Douglis,Tom Ball,Yih-Farn Chen,Eleftherios Koutsofios</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Fred Douglis,Thomas Ball,Yih-Farn Chen,Eleftherios Koutsofios</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Fred Douglis,Huale Huang,Kiem-Pong Vo</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Richard N Ferri,Raghavan N Pratiwadi,Lynn M Rivera,Mohammed Shakir,John J Snyder,D W Thomas,Yih-Farn Chen,Glenn S Fowler,Balachander Krishnamurthy,Kiem-Phong Vo</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Emden R Gansner,Hausi A M&uuml,ller,Johannes Martin,Premkumar T Devanbu</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Emden R Gansner,Jeffrey L Korn,Spiros Mancoridis,Timothy S Souder</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Judith E Grass</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>J Korn,Y Chen,E Koutsofios</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Eleftherios Koutsofios,Emden R Gansner</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Jie Lu,Jun Miao,Wen Gao</authors>
+		<label>30</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Charles Ling,Tingshao Zhu,Wen Gao</authors>
+		<label>30</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Tingshao Zhu,Wen Gao</authors>
+		<label>30</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Li Zuo,Wen Gao,Zhaoqi Wang</authors>
+		<label>30</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Changshui Yang,Gaolin Fang,Wen Gao,Zhaoqi Wang</authors>
+		<label>30</label>
+	</publication>
+	<publication>
+		<authors>Yuan Chen,Karsten Schwan,David Rosen</authors>
+		<label>31</label>
+	</publication>
+	<publication>
+		<authors>Yuan Chen,Karsten Schwan,Dong Zhou</authors>
+		<label>31</label>
+	</publication>
+	<publication>
+		<authors>Yuan Chen,Jan Edler,Andrew V Goldberg,Allan Gottlieb,Sumeet Sobti,Peter N Yianilos</authors>
+		<label>31</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Allan Gottlieb,Andrew V Goldberg,Jan Edler,Peter N Yianilos,Sumeet Sobti</authors>
+		<label>31</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,David W Rosen,Karsten Schwan</authors>
+		<label>31</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Dong Zhou,Greg Eisenhauer,Karsten Schwan</authors>
+		<label>31</label>
+	</publication>
+	<publication>
+		<authors>Dong Zhou,Karsten Schwan,Greg Eisenhauer,Yuan Chen</authors>
+		<label>31</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Dong Zhou,Greg Eisenhauer,Karsten Schwan</authors>
+		<label>31</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Dong Zhou,Karsten Schwan</authors>
+		<label>31</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Yen-Cheng Chen,W T Chen</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Gen-Huey Chen,Jang-Ping Sheu,Wen-Tsuen Chen</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,W T Chen,G H Chen,J P Sheu</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Yen-Cheng Chen,W T Chen,Gen-Huey Chen</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Gen-Huey Chen,Wen-Tsuen Chen</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Yen-Cheng Chen,Yao-Jung Chan</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Yen-Cheng Chen,Yao-Jung Chan,Kan-Ming Fan</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Yen-Cheng Chen,Shun-Chi Chen</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Yen-Cheng Chen,Po-Wei Huang</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Yen-Cheng Chen,Gang-Ming Fan</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Yen-Cheng Chen,W T Chen</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,W T Chen,G H Chen,J P Sheu</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Gen-Huey Chen,Jang-Ping Sheu,Wen-Tsuen Chen</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Yen-Cheng Chen,Ching-Yung Lin</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Chen,Z C Yeh,G H Chen</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Yen-Cheng Chen,G H Chen</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Yen-Cheng Chen,W T Chen,Gen-Huey Chen</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Gen-Huey Chen,Wen-Tsuen Chen</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C S Lu,P F Chen,Y C Chen,et al</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>C S Lu,Yen-Cheng Chen,et al</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,H C Young,S S Lin,J S Lin,C C Lo,T H Fang,M C Huang,Y S Wang,C H Hu,C W Chen,M T Chang,S H Liao,Y C Chen,R S Lin,S W Sun</authors>
+		<label>32</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Michel Dubois</authors>
+		<label>33</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Jin-Chin Wang,Kangwoo Lee,Luiz Andr&eacute,Barroso,Michel Dubois</authors>
+		<label>33</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Koray &Ouml,ner,Luiz Andr&eacute,Barroso,Michel Dubois</authors>
+		<label>33</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Jean-Luc Gaudiot</authors>
+		<label>33</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Andrew L Wendelborn,Denis Caromel,Isabelle Attali,Jean-Luc Gaudiot</authors>
+		<label>33</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Shih-Hsu Chang,Fang-Hsuan Cheng,Wen-Hsing Hsu</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Shih-Hsu Chang,Fang-Hsuan Cheng,Wen-Hsing Hsu</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Bor-Tow Chen,Hui-Yu Hwang</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,B T Chen,Y S Chen,W H Hsu</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Fang-Hsuan Cheng,Wen-Hsing Hsu,Te-Wei Chen</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Sheng-Hua L ee,S hih-Hsu C hang,F ang-Hsuan Cheng,Wen-Hsing Hsu</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Shih-Hsu C hang,a nd W en-Hsing Hsu</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Shih-Hsu C hang,F ang-Hsuan C heng,a nd W en-Hsing Hsu</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Shih-Hsu C hang,C hih-Jen H uang,Fang-Hsuan Cheng,Wen-Hsing Hsu</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Yung-Sheng C hen,H ui-Yu H uang,a nd W en-Hsing H su</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Pei-Chun C hen,W en-Hsing H su,a nd Yung-Sheng Chen</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Tung-Chang Hseue,Yu-Chuan Shen,Po-Chi Chen,Wen-Hsing Hsu,Yuan-Te Liu</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Jun-Wei Hsieh,Shih-Hao Yu,Wen-Fong Hu</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Hui-Yu Huang,Yung-Sheng Chen,Wen-Hsing Hsu</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Hui-Yu Huang,Yung-Sheng Chen,Wen-Hsing Hsu</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Computer processing on the identification of a Chinese seal image</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Liang-Ting Lin,Shih-Hsu Chang,Wen-Hsing Hsu,Chih-Jen Huang</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Yu-Chuan Shen,Wu-Hsiung Yuan,Wen-Hsing Hsu,Yung-Sheng Chen</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Shen,Y S Chen,W H Hsu</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y C Shen,Y S Chen,W H Hsu</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Hui-Yu H uang,Y ung-Sheng C hen a nd W en-Hsing Hsu</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Hui-Yu H uang,Y ung-Sheng C hen a nd W en-Hsing H su</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Hung-Tien Yen,Wen-Hsing Hsu</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Registration of Seal Images Using Contour Analysis</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,S H Chang,G Z Wu,F H Cheng,W H Hsu</authors>
+		<label>34</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Dong Liu,Thomas Li,Xiulan Yu</authors>
+		<label>35</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Dong Liu,Thomas Li,Xiaochen Ding,Ying Li</authors>
+		<label>35</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Dong Liu,Fangyan Rao,Long Zhang,Xiulan Yu</authors>
+		<label>35</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Dong Liu,Fangyan Rao,Xiulan Yu</authors>
+		<label>35</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Dong Liu,Fangyan Rao,Xiaocheng Ding,Xiaoyan Chen</authors>
+		<label>35</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J C -H Ju,Y -K Chen,S Y Kung</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Igor Kozintsev,Matthew J Holliman,Minerva M Yeung,Rainer Lienhart</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -T Lin,Y -K Chen,S Y Kung</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>Wen-Hsiao Peng,YK Chen</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Wen-Hsiao Peng</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,P Pirsch,H -J Stolberg,Y -K Chen,S Y Kung</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,A Vetro,H Sun,Y -K Chen,S Y Kung</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -K Chen</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -K Chen,S Y Kung</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -K Chen,M Holliman,R Liu,W Macy,M M Yeung</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -K Chen,M Holliman,S Macy,M Yeung</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -K Chen,S Y Kung</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>Eric Debes,Matthew Holliman,William Macy,Yen-Kuang Chen,Minerva Yeung</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Eric Debes,Matthew J Holliman,Minerva M Yeung,Rainer Lienhart</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Milind Girkar,Rainer Lienhart,Sanjiv Shah,Steven Ge,Xinmin Tian</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,M Holliman,S Macy,Y -K Chen,M Yeung</authors>
+		<label>36</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Maria C Yuang,Shih T Liang</authors>
+		<label>37</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J G Liu,Jen-Chu Liu,Maria C Yuang</authors>
+		<label>37</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Maria C Yuang</authors>
+		<label>37</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J G Liu,Jen-Chu Liu,Maria C Yuang</authors>
+		<label>37</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>38</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>38</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Qing Xiang,Surinder K Sehgal</authors>
+		<label>38</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,K T Arasu</authors>
+		<label>38</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Rajive Bagrodia,Vikas Jha</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Rajive Bagrodia</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Bruce Kwan,Jay Martin,Mario Gerla,Prasasth Palnati,Rajive Bagrodia,Simon Walton</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Ha Yoon Song,Jay Martin,Mineo Takai,Rajive Bagrodia,Richard A Meyer,Xiang Zeng</authors>
+		<label>39</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Tong-Ying Juang,Ying-Ying Shen</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Tong-Ying Juang,Ying-Ying Shen</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Tong-Ying Juang,En-Huai Tseng</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,En-Huai Tseng,Tong-Ying Juang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Jang-Ping Sheu</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Jang-Ping Sheu</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Jung-Yu Chien</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Tong-Ying Juang,Yu-Ting Yu</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Chih-Yung Chang,Chun-Bo Kuo</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Wu-Chen Chen,Chao-Yu Chiang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Chih-Yung Chang Yuh-Shyan Chen,Chun-Bo Kuo</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Jang-Ping Sheu</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Jang-Ping Sheu,Yu-Chee Tseng</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chao-Yu Chiang,Jang-Ping Sheu,Tai-Chien Kao</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chiou-Jyu Chang,Tong-Ying Juang,Yu-Chee Tseng</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Po-Chih Huang,Yuh-Shyan Chen,Chih-Yung Chang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chih-Yung Chang,Jang-Ping Sheu</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Ching-Jang Huang,Tzung-Shi Chen</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chih-Yung Chang,Jang-Ping Sheu</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Tong-Ying Juang,Ying-Ying Shen</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chih-Yung Chang,Jang-Ping Sheu</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Tong-Ying Juang,Yu-Chee Tseng,Yuh-Shyan Chen,Chih-Chyang Tsai</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Chih-Yung Chang,Yuh-Shyan Chen,Chun-Bo Kuo</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Chih-Yung Chang,Yuh-Shyan Chen,Chun-Bo Kuo</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Tong-Ying Juang,Yuh-Shyan Chen</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Yuan-Chun Lin</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Yuan-Chun Lin</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Tong-Ying Juang,En-Huai Tseng</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Han-Gu Tsai</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Tzung-Shi Chen,Yuh-Shyan Chen,H -W Tsai</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Tzung-Shi Chen,Yuh-Shyan Chen,Hua-Wen Tsai</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Jang-Ping Sheu,Yu-Chee Tseng</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Yu-Chee Tseng,Tong-Ying Juang,Chiou-Jyu Chang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Michelle Tai-Chien Kao,Jang-Ping Sheu,Chao-Yu Chiang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Michelle Tai-Chien Kao,Jang-Ping Sheu,Chao-Yu Chiang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Che-Yi Chen,Yu-Chee Tseng</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Tong-Ying Juang,Yuh-Shyan Chen,Yu-Li Chang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Tong-Ying Juang,Yuh-Shyan Chen,C -C Tsai</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Che-Yi Chen</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>S -Y Ni,Y -C Tseng,Yuh-Shyan Chen,J -P Sheu</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Jang-Ping Sheu,Yuh-Shyan Chen,Chih-Yung Chang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Jang-Ping Sheu,Yuh-Shyan Chen,Chih-Yung Chang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Jang-Ping Sheu,Yau-Wen Nian</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Jang-Ping Sheu,Sze-Yao Ni,Yu-Chee Tseng</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Jang-Ping Sheu,Sze-Yao Ni,Yu-Chee Tseng</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Jang-Ping Sheu</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Jang-Ping Sheu</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Che-Yi Chen,Yu-Chee Tseng</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Che-Yi Chen,Yu-Chee Tseng</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Che-Yi Chen,Yu-Chee Tseng</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Tong-Ying Juang,Ying-Ying Shen</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Tzung-Shi Chen,Chih-Yung Chang,Yuh-Shyan Chen</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Tzung-Shi Chen,Chih-Yung Chang,Yuh-Shyan Chen</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Tong-Ying Juang,Yun-Yun Cheng</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Kuan-Chang Lai</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Jang-Ping Sheu,Yuh-Shyan Chen</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Kuan-Chang Lai</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Y -C Tseng,Yuh-Shyan Chen,T -Y Juang,C -J Chang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Kuan-Chang Lai,Jang-Ping Sheu</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,E -H Tseng,Tong-Ying Juang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Y -C Tseng,S -Y Ni,Yuh-Shyan Chen,J -P Sheu</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Yu-Chee Tseng,Jang-Ping Sheu,Po-Hsuen Kuo</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Yu-Chee Tseng,Jang-Ping Sheu,Po-Hsuen Kuo</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Yun-Wen Ko,Ting-Lung Lin</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Keng-Sheng Tai</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Keng-Sheng Tai</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Jang-Ping Sheu</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Jang-Ping Sheu</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Tzung-Shi Chen,Ching-Jang Huang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Tzung-Shi Chen,Ching-Jang Huang</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Yuh-Shyan Chen,Yu-Ting Yu</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Kiran S Challapali,Mahesh Balakrishnan</authors>
+		<label>40</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Kiran S Challapali</authors>
+		<label>40</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Zhitao Lu</authors>
+		<label>40</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,H Radha,M van der Schaar</authors>
+		<label>40</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Alexander V Veidenbaum</authors>
+		<label>41</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Alexander V Veidenbaum</authors>
+		<label>41</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Alexander V Veidenbaum</authors>
+		<label>41</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Alexander V Veidenbaum</authors>
+		<label>41</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,James Ze Wang,Jia Li</authors>
+		<label>42</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,James Ze Wang</authors>
+		<label>42</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,John E McInroy</authors>
+		<label>42</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,John E McInroy</authors>
+		<label>42</label>
+	</publication>
+	<publication>
+		<authors>Yanyun Chen,Yingquing Xu,Baining Guo,Heung-Yeung Shum</authors>
+		<label>43</label>
+	</publication>
+	<publication>
+		<authors>Yanyun Chen,Hanqiu Sun,Hui Lin,Enhua Wu</authors>
+		<label>43</label>
+	</publication>
+	<publication>
+		<authors>Yanyun Chen,Stephen Lin,Hua Zhong,Ying-Qing Xu,Baining Guo,Heung-Yeung Shum</authors>
+		<label>43</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Baining Guo,Heung-Yeung Shum,Ying-Qing Xu</authors>
+		<label>43</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Baining Guo,Heung-Yeung Shum,Ying-Qing Xu</authors>
+		<label>43</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Baining Guo,Enhua Wu,Heung-Yeung Shum,Hua Zhong,Stephen Lin,Ying-Qing Xu</authors>
+		<label>43</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Baining Guo,Heung-Yeung Shum,Hua Zhong,Stephen Lin,Ying-Qing Xu</authors>
+		<label>43</label>
+	</publication>
+	<publication>
+		<authors>Ying-Qing Xu,Yanyun Chen,Steve Lin,Hua Zhong,Enhua Wu,Baining Guo,Heung-Yeung Shum</authors>
+		<label>43</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen,C T Ng,Y Z Wang</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen,Y Z Wang</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen,C Liu</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen,Y N Hu</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Liu Chen</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen,Y Z Wang,T M Leung</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen,C T Ng</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen,C Ng</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Ng Chen</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen,Z Yang,W S Sze</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen,C Y Liu</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Liu Chen</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Tse Chen</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen,Y N Hu</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Wang Chen</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen,Y Song</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen,W C Tse</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Hu Chen,W C Tse</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen,C T Ng</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y N Hu,Y H Chen</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C Y Liu</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C Y Liu</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y Song</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y Z Wang</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Z Yang,Y H Chen,W S Sze</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Z Yang,Y H Chen,W S Sze</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G F Yin,Y H Chen</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C Zhang,K W Chan,Y H Chen</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Ng C T Chen</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen,C T Ng,Y Z Wang</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Chen</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Tse Chen,Y N Hu</authors>
+		<label>44</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J C Huang,Y W Chen</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y W,Chen,J C Wu</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Jean-Lien C Wu</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Zhong-Jian Yan</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Yen-Wen Chen,Zhong-Jian Yan</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Yen-Wen Chen,Hsiang Ru Peng,Chun Seng Hsu</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Yen-Wen Chen,Zhong-Jian Yan,Jian-Chin Huang,I-Hsuan Peng,Jun-Wei Zhan</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y W Chen</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y W Chen,J C Wu</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y W Chen</authors>
+		<label>45</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Min-You Wu,Wei Shu</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Min-You Wu,Wei Shu</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Min-You Wu,Wei Shu</authors>
+		<label>46</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Betty H C Cheng</authors>
+		<label>47</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Betty H C Cheng,Gerald C Gannod</authors>
+		<label>47</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Betty H C Cheng</authors>
+		<label>47</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Cathy H Wu,Hongzhan Huang,Winona C Barker</authors>
+		<label>48</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Akira Tsugita,Baris E Suzek,Bruce C Orcutt,C R Vinayaka,Cathy H Wu,Hans-Werner Mewes,Hongzhan Huang,Jian Zhang,Jorge Castro-Alvear,Kali C Lewis,Lai-Su L Yeh,Leslie Arminski,Robert S Ledley,Winona C Barker,Zhangzhi Hu</authors>
+		<label>48</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Baris E Suzek,C R Vinayaka,Cathy H Wu,Hongzhan Huang,Jian Zhang,Jorge Castro-Alvear,Lai-Su L Yeh,Leslie Arminski,Panagiotis Kourtesis,Robert S Ledley,Winona C Barker,Zhangzhi Hu</authors>
+		<label>48</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Xiaoqing Ding,Youshou Wu</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Ming Chen,Xiaoqing Ding,Youshou Wu</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Jinhui Liu,Xiaofan Lin,Xiaoqing Ding,Youshou Wu</authors>
+		<label>49</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Kent E Seamons,Mahesh Subramaniam,Marianne Winslett,S Kuo,Yong Cho</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Jonghyun Lee,Marianne Winslett,Szu-Wen Kuo,Yong Cho</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Marianne Winslett</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Ian T Foster,Jarek Nieplocha,Marianne Winslett</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Jonghyun Lee,Marianne Winslett,Szu-Wen Kuo,Yong E Cho</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Marianne Winslett,Szu-Wen Kuo,Yong Cho</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Marianne Winslett,Szu-Wen Kuo,Yong Cho</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J Jozwiak,Kent E Seamons,Marianne Winslett,P Jones</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Kent E Seamons,Mahesh Subramaniam,Marianne Winslett,Szu-Wen Kuo,Yong Cho</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Marianne Winslett,Szu-Wen Kuo,Yong Cho</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Kent E Seamons,Mahesh Subramaniam,Marianne Winslett,Szu-Wen Kuo,Yong Cho</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Marianne Winslett,Szu-Wen Kuo,Yong Cho</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Kent E Seamons,Mahesh Subramaniam,Marianne Winslett,Szu-Wen Kuo,Yong Cho</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Kent E Seamons,Mahesh Subramaniam,Marianne Winslett,Szu-Wen Kuo,Yong Cho</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Frank Seela</authors>
+		<label>50</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,A Kasprzyk,A Rust,A Stabenau,A Ureta-Vidal,C Melsopp,D Barker,E Eyras,E Mongin,E Schmidt,E Stupka,Ewan Birney,G Cameron,G Slater,H Lehvaslaiho,I Vastrik,J Gilbert,J Smith,J Stalker,James A Cuff,L Clark,L Huminiecki,M Hammond,M R Pocock,Michele E Clamp,P Lijnzaad,R Pettett,Richard Durbin,S Potter,S Searle,T Cox,T Down,Tim J P Hubbard,V Curwen,W Spooner</authors>
+		<label>50</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,A Kasprzyk,A Rust,A Stabenau,A Ureta-Vidal,C Melsopp,D Andrews,D Barker,D Keefe,E Eyras,E Mongin,E Schmidt,E Stupka,Ewan Birney,G Cameron,G Slater,H Lehvaslaiho,I Vastrik,J Gilbert,J Smith,J Stalker,James A Cuff,L Clark,M Clamp,M Hammond,P Bevan,R Pettett,Richard Durbin,S Potter,S Searle,T Cox,T Down,Tim J P Hubbard,V Curwen,V Iyer,W Spooner</authors>
+		<label>50</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chao-Ju Hou,Ching-Chih Han</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J Hou,H -Y Tyan,B Wang,Y -M Chen</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J Ogawa,Y -M Chen</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,N Oguchi,Y -M Chen,J Ogawa,T Tsuruoka,T Taniguchi,S Nojima</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Galen H Sasaki</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Galen H Sasaki</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G H Sasaki,Y Wang,Y -M Chen</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,S A Wright,Y -M Chen</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J -H Yao,Y -M Chen,T Verma</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J -H Yao,Y -M Chen</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -M Chen</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -M Chen</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -M Chen,H Wang,T Taniguchi,G H Sasaki</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -M Chen,G Sasaki</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -M Chen,G Sasaki</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -M Chen,G Sasaki</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -M Chen,J Ogawa,N Oguchi,S Nojima,T Taniguchi,T Suzuki</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,T Hamada,Y -M Chen,J Ogawa,S Nojima,T Suzuki</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C -J Hou,C -C Han,Y -M Chen</authors>
+		<label>51</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Ferng-Shi Jaung,Horng-Ren Tsai,Shi-Jinn Horng,Tzong-Wann Kao,Yu-Hua Lee</authors>
+		<label>52</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Horng-Ren Tsai,Shi-Jinn Horng,Tzong-Wann Kao</authors>
+		<label>52</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Shi-Jinn Horng</authors>
+		<label>52</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Baba C Vemuri,Z Wang</authors>
+		<label>53</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Baba C Vemuri,M Rao,T Mareci,T McGraw,Z Wang</authors>
+		<label>53</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Baba C Vemuri,Z Wang</authors>
+		<label>53</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Doug Ierardi</authors>
+		<label>54</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Doug Ierardi</authors>
+		<label>54</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Doug Ierardi</authors>
+		<label>54</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Hongqing Cao,Lishan Kang</authors>
+		<label>55</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Hongqing Cao,Jingxian Yu,Lishan Kang</authors>
+		<label>55</label>
+	</publication>
+	<publication>
+		<authors>Hongqing Cao,Jingxian Yu,Lishan Kang,Yongyan Chen</authors>
+		<label>55</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Jun Xie,Sanli Li,Xiaoge Wang,Zhenqiang Jiao,Zhihui Du</authors>
+		<label>56</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Qian Fang,Sanli Li,Zhenchun Huang,Zhihui Du</authors>
+		<label>56</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Qian Fang,Sanli Li,Zhihui Du</authors>
+		<label>56</label>
+	</publication>
+	<publication>
+		<authors>Yijia Chen,Jörg Flum u,Martin Grohe</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>Yijia Chen,Enshao Shen</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>Yijia Chen,Enshao Shen</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>Y Chen</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J&ouml,rg Flum</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Enshao Shen</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Enshao Shen</authors>
+		<label>57</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Baba C Vemuri,Li Wang</authors>
+		<label>58</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,David Wilson,Edward A Geiser,Feng Huang,Weihong Guo</authors>
+		<label>58</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,David Wilson,Edward A Geiser,Feng Huang,Hemant Tagare,Kaundinya S Gopinath,Richard W Briggs,Sheshadri Thiruvenkadam</authors>
+		<label>58</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Wei-Tek Tsai</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chungti Liang,Wei-Tek Tsai</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Daniel Y Chao,W T Tsai</authors>
+		<label>59</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN,B M COLOMB</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN,B M COLOMB</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN,R M COLOMB</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN,R M COLOMB</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,D TJONDRONEGORO,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,D TJONDRONEGORO,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Dian Tjondronegoro</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,D TJONDRONEGORO,Y -P P CHEN,B PHAM</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,D TJONDRONEGORO,Y -P P CHEN,B PHAM</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,B TSE,C WELLS,T RAVASI,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Biomedical visualization</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J ZHANG,B PHAM,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J ZHANG,B PHAM,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J ZHANG,B PHAM,P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN,R M COLOMB</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN,J HANAN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Robert M Colomb</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Robert M Colomb</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J ZHANG,B PHAM,P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Robert M Colomb</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J ZHANG,B PHAM,P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,A GARCIA,J GARCIA LEYLA,RAGAN L J,CHEN Y -P P M A</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J ZHANG,B PHAM,P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J ZHANG,B PHAM,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J ZHANG,B PHAM,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J ZHANG,B PHAM,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,A GARCIA,C JOHN,M A RAGAN,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,A GARICA,M A RAGAN,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,P GUNTHER,P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,F S LEE,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,F LEE,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,X Li,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,S Mann,L Eaton,Y -P P Chen</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,J AN,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,S Mann,L Eaton,Y -P P Chen</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,S Mann,L Eaton,Y -P P Chen</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y CHEN,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Binh Pham,Jinglan Zhang</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN,McLachlan G</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN,R M COLOMB</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y -P Phoebe CHEN,R M COLOMB</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Binh Pham,Jinglan Zhang</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,S PROMPRAMOTE,Y -P P CHEN,F MAIRE</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,S PROMPRAMOTE,Y -P P CHEN,F MAIRE</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,DML: A Bridge between Database Systems and L-Systems for Biological Research</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,B RUNQIANG,Y -P P CHEN,K BURRAGE,J HANAN,P ROOM,J BELWARD</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,L SOON,Y -P P CHEN,A UNDERWOOD</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Lisa Soon</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,L SOON,Y -P P CHEN</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,L SOON,Y -P P CHEN,A UNDERWOOD</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,XML-Based Multimedia Query System</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Carmem S Hara,Susan B Davidson,Yifeng Zheng</authors>
+		<label>60</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Susan B Davidson,Yifeng Zheng</authors>
+		<label>60</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Susan B Davidson,Yifeng Zheng</authors>
+		<label>60</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Hong-Jiang Zhang,Wei-Ying Ma</authors>
+		<label>61</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chun Yuan,Zheng Zhang</authors>
+		<label>61</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Michael J O'Donnell</authors>
+		<label>62</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Michael J O'Donnell</authors>
+		<label>62</label>
+	</publication>
+	<publication>
+		<authors>T Y Huang,Y Y Chen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Pai-Yi Huang,Sinn-Cheng Lin</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>T Y Huang,Y Y Chen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>T Y Huang,Y Y Chen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>T Y Huang,Y Y Chen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>P Y Huang,Y Y Chen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>K C Ju,Y Y Chen,W L Lin,T S Kuo:</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>K C Ju,Y Y Chen,W L Lin,T S Kuo</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>K C Ju,Y Y Chen,K S Cheng,J Y Yen,W L Lin</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>K C Ju,Y Y Chen,J U Yen,T S Kuo,W L Lin</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>K C Ju,Y Y Chen,W L Lin,T S Kuo</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>K C Ju,Y Y Chen,W L Lin,T S Kuo</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>K C Ju,W L Lin,Y Y Chen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>K C Ju,W L Lin,K S Cheng,Y Y Chen,J Y Yen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>T C Liang,M J Shieh,W L Lin,Y Y Chen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>T C Liang,J Y Yen,W L Lin,M J Shieh,Y Y Chen,T C Shih,H S Kuo:</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>T C Liang,W L Lin,W C Fan,J Y Yen,Y Y Chen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>T C Liang,W L Lin,W C Fan,J Y Yen,Y Y Chen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>T C Liang,W L Lin,W C Fan,J Y Yen,Y Y Chen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>T C Liang,W L Lin,J Y Yen,Y Y Chen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>C T Liauh,W L Lin,J Y Yen,Y Y Chen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>W L Lin,M J Shieh,Y Y Chen,J Y Yen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>W L Lin,Y Y Chen,K C Ju,J Y Yen,M J Shieh</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>S C Lin,P Y Huang,Y Y Chen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>W L Lin,T C Liang,Y Y Chen,J Y Yen,M J Shieh</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>W L Lin,Y Y Chen,J Y Yen,M J Shieh,T S Kuo</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>W L Lin,T C Liang,J Y Yen,H L Liu,Y Y Chen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>W L Lin,J Y Yen,Y Y Chen,K W Jin,M J Shieh</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>W L Lin,J Y Yen,Y Y Chen,K S Cheng,M J Shieh</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>S C Lin,Y Y Chen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>W L Lin,T C Liang,Y Y Chen,J Y Yen,M J Shieh</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>W L Lin,Y Y Chen,J Y Yen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>W L Lin,W C Fan,J Y Yen,Y Y Chen,M J Shieh</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>W L Lin,T C Liang,J Y Yen,Y Y Chen,M J Shieh</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>W L Lin,W C Fan,J Y Yen,Y Y Chen,M J Shieh</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>W L Lin,J Y Yen,Y Y Chen:</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>W L Lin,C T Liauh,Y Y Chen,H C Lui,M J Shieh</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>W L Lin,T C Liang,J Y Yen,Y Y Chen,M J Shieh</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>W L Lin,C T Liauh,J Y Yen,Y Y Chen,M J Shieh</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>H L Liou,W L Lin,Y Y Chen,J Y Yen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>H L Liou,W L Lin,Y Y Chen,J Y Yen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>H L Liou,Y Y Chen,W L Lin,J Y Yen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>H L Liu,Y Y Chen,W L Lin,J Y Yen:</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>H L Liu,W L Lin,Y Y Chen,J Y Yen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>H L Liu,Y Y Chen,W L Lin,J Y Yen:</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>H L Liu,Y Y Chen,J Y Yen,W L Lin</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>C Y Liu,J Y Yen,Y Y Chen,W L Lin :</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>C Y Liu,J Y Yen,Y Y Chen,W L Lin</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>H L Liu,Y Y Chen,J Y Yen,W L Lin:</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>H L Liu,Y Y Chen,W L Lin,J Y Yen,:</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>H L Liu,Y Y Chen,W L Lin,J Y Yen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>H L Liu,Y Y Chen,W L Lin,J Y Yen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>H L Liu,Y Y Chen,J Y Yen,W L Lin</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>K F Lo,W L Lin,Y Y Chen,M J Shieh</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>B Y Lu,W L Lin,Y Y Chen,R S Yang,T S Kuo,C Y Wang</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>B Y Lu,W L Lin,Y Y Chen,R S Yang,T S Kuo,C Y Wang</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>B Y Lu,W L Lin,R S Yang,Y Y Chen,C Y Wang,T S Kuo:</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>C F Perng,Y Y Chen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>Y Y Chen,P Y Huang,J Y Yen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>Y Y Chen,Y J Chen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>Y Y Chen,Y J Chen,I K Fong</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>Y Y Chen,W L Lin,H L Liou,J Y Yen,M J Shieh</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>Y Y Chen,M J Shieh,J Y Yen,C H Chen,W L Lin</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>K C Ju Y Y Chen,W L Lin,T S Kuo:</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>P Y Huang,Y Y Chen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Tao-Yuan Huang</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>P Y Huang,Y Y Chen</authors>
+		<label>63</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C L Tseng,H T Pao,Hsin-Chia Fu</authors>
+		<label>64</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,C L Tseng,H T Pao,Hsin-Chia Fu,S S Cheng</authors>
+		<label>64</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Guoping Wang,Shihai Dong</authors>
+		<label>65</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Guoping Wang,Shihai Dong</authors>
+		<label>65</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Dorothy G Dologite,Meiqi Fang,Robert J Mockler</authors>
+		<label>66</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,H Han,X Wang</authors>
+		<label>66</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Robert N Smith,Sourav Bhattacharya</authors>
+		<label>67</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Daniel M Sheehan,David R Lowis,Dean W Goddette,Roger Perkins,Trevor W Heritage,Weida Tong,William J Welsh</authors>
+		<label>67</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Le Gruenwald</authors>
+		<label>68</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Jing Huang,Le Gruenwald</authors>
+		<label>68</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Kuo-Liang Chung</authors>
+		<label>69</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Kuo-Liang Chung</authors>
+		<label>69</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Angelos Bilas,Cezary Dubnicki,Kai Li,Stefanos N Damianakis</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Matthias A Blumrich,Richard D Alpert,Yuqun Chen,Douglas W Clark,Stefanos N Damianakis,Cezary Dubnicki,Edward W Felten,Liviu Iftode,Kai Li,Margaret Martonosi,Robert A Shillner</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Yuqun Chen,Matthew Cary,Mariusz Jakubowski,Ruoming Pang,Venkatesan Ramarathnam</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Yuqun Chen,James S Plank,Kai Li</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Yuqun Chen,Paul England,Marcus Peinado,Bryan Willman</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Yuqun Chen,Stefanos N Damianakis,Sanjeev Kumar,Xiang Yu,Kai Li</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Yuqun Chen,Zhiyan Liu,Kai Li</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Yuqun Chen,Czarek Dubnicki,Stefanos Damianakis,Angelos Bilas,Kai Li</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Yuqun Chen,Adam Finkelstein,Kai Li</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Stefanos Damianakis,Yuqun Chen,Edward Felten</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Cezary Dubnicki,Douglas W Clark,Edward W Felten,Kai Li,Liviu Iftode,Margaret Martonosi,Matthias A Blumrich,Richard Alpert,Robert A Shillner,Stefanos N Damianakis</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Cezary Dubnicki,Angelos Bilas,Yuqun Chen,Stefanos Damianakis,Kai Li</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Edward W Felten,Stefanos N Damianakis</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Adam Finkelstein,Allison Klein,Ben Shedd,Douglas W Clark,Emil Praun,Georg Essl,George Tzanetakis,Han Chen,Jaswinder Pal Singh,Jiannan Zheng,Kai Li,Perry R Cook,Rudrajit Samanta,Stefanos N Damianakis,Thomas A Funkhouser,Timothy C Housel,Zhiyan Liu</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Adam Finkelstein,Grant Wallace,Han Chen,Kai Li,Rudrajit Samanta,Thomas A Funkhouser,Zhiyan Liu</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Adam Finkelstein,Douglas W Clark,Kai Li,Timothy C Housel</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Mariusz H Jakubowski,Matthew Cary,Ramarathnam Venkatesan,Ruoming Pang,Saurabh Sinha</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Gerry Kingsley,James S Plank,Kai Li,Micah Beck</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Arvind Krishnamurthy,Benjamin Gum,Kai Li,Randolph Y Wang,Thomas E Anderson,Xiang Yu</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Kai Li,Han Chen,Yuqun Chen,Douglas W Clark,Perry Cook,Stefanos Damianakis,Georg Essl,Adam Finkelstein,Thomas Funkhouser,Allison Klein,Zhiyan Liu,Emil Praun,Rudrajit Samanta,Ben Shedd,Jaswinder Pal Singh,George Tzanetakis,Jiannan Zheng</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,K Li,A Krishnamurthy,T Anderson</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>James S Plank,Yuqun Chen,Kai Li,Micah Beck,Gerry Kingsley</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,David J Lilja,Resit Sendag</authors>
+		<label>70</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Andrew Rau-Chaplin,Frank K H A Dehne,Todd Eavis</authors>
+		<label>70</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Honesty C Young,Windsor W Hsu</authors>
+		<label>71</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Hai Jin,Ligang He,Zongfen Han</authors>
+		<label>71</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Herman Lam,Stanley Y W Su</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Stanley Y W Su</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Stanley Y W Su</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Arthur J T Chang,Chiang Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chiang Lee,Chih-Horng Ke</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chi-Sheng Shih,Chiang Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chiang Lee,Chih-Horng Ke,J -B Chang</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chi-Sheng Shih,Chiang Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Chi-Sheng Shih,Chiang Lee</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G Bi,Y Q Chen</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G Bi,Y Q Chen</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G Bi,Y Q Chen</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G Bi,Y Q Chen</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Guoan Bi</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,G Bi,Y Q Chen</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y Q Chen,G Bi</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y Q Chen,D W Thomas,M S Nixon</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y Q Chen,R I Damper,M S Nixon</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y Q Chen,M S Nixon,D W Thomas</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y Q Chen,G Bi</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Lihui Chen,Yuhui Yao</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y Q Chen,M S Nixon,D W Thomas</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Hao He</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Hao He,Lihui Chen</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Hao He</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,David W Thomas,Mark S Nixon</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Y H Yao,Y Q Chen,L Chen</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,F Zhang,Y Q Chen,G Bi</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Ximin Zhang</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Haroon A Babri,Xi Min Zhang</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,H A Babri,Y Q Chen,T Yin</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Guoan Bi</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Arie E Kaufman,Qing-hong Zhu,Shigeru Muraki</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Arie E Kaufman,Qing-hong Zhu</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Lili Qiu,Luan Nguyen,Randy H Katz,Weiyu Chen</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Adam Bargteil,David Bindel,John Kubiatowicz,Randy H Katz</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,John Kubiatowicz,Randy H Katz</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Ben Y Zhao,Chris Wells,David Bindel,Dennis Geels,Hakim Weatherspoon,John Kubiatowicz,Patrick R Eaton,Ramakrishna Gummadi,Sean C Rhea,Steven E Czerwinski,Westley Weimer</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,John Kubiatowicz,Randy H Katz</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>Y Chen,Anthony D Joseph,Bhaskaran Raman,George Porter,Ion Stoica,Jimmy S Shih,Keith Sklower,Kevin Lai,Lakshminarayanan Subramanian,Matthew Caesar,Mukund Seshadri,Per Johansson,Randy H Katz,Sharad Agarwal,Shelley Zhuang,Sridhar Machiraju,Takashi Suzuki,Tal Lavian,Timothy Roscoe,Weidong Cui,Zhuoqing Morley Mao</authors>
+		<label>9</label>
+	</publication>
+</person>

@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<FullName>M Brown</FullName>
+	<publication>
+		<authors>M Brown,Jianying Hu,William Turin</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Amy S Rosenthal,Jianying Hu</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Jianying Hu,William Turin</authors>
+		<label>10</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Mary D Brown,Jared Stark,Yale N Patt</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Mary D Brown,Yale N Patt</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Yale N Patt</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Jared Stark,Mary D Brown,Yale N Patt</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Jared Stark,Yale N Patt</authors>
+		<label>11</label>
+	</publication>
+	<publication>
+		<authors>M Brown</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>M Brown,G Sutcliffe</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>M Brown,G Sutcliffe</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>M Brown,G Sutcliffe</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>M Brown,G Sutcliffe</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>M Brown</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Geoff Sutcliffe</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Geoff Sutcliffe</authors>
+		<label>12</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Saurav Chatterjee</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Bikash Sabata,Saurav Chatterjee</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Madhu Sudan,Nachum Shacham</authors>
+		<label>13</label>
+	</publication>
+	<publication>
+		<authors>M Brown,William E Weihl</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Marc Najork</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Robert Sedgewick</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Marc Najork</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown,John Hershberger</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown,John Hershberger</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Marc Najork</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Marc Najork,Roope Raisamo</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Marc Najork</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Krishna Bharat</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Marc Najork</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Robert A Shillner</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Marc Najork</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Manojit Sarkar</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Krishna Bharat</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Manojit Sarkar</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Marc Najork</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Robert A Shillner</authors>
+		<label>1</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M S Brown,W Seales</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M S Brown,W Wong</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,W B Seales,C J Yuan,M S Brown</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M S Brown,W B Seales</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,W Brent Seales</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M S Brown,W B Seales</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,W Brent Seales</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M S Brown,D Tsoi</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,W Brent Seales</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M S Brown,W B Seales</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Desmond Tsoi</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,E Elsayed,M S Brown</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Y -C Tsoi,M S Brown</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Henry Fuchs,Ruigang Yang,W Brent Seales</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,D Tsoi,M S Brown</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Greg Welch,Henry Fuchs,Herman Towles,Ramesh Raskar,Ruigang Yang,W Brent Seales,Wei-Chao Chen</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Greg Welch,Henry Fuchs,Herman Towles,Ramesh Raskar</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,G Welch,H Fuchs,R Raskar,M S Brown,H Towles</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,David Gotz,Herman Towles,Justin Hensley,Ruigang Yang</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Christopher O Jaynes,Stephen B Webb,W Brent Seales</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,C O Jaynes,S B Webb,W B Seales,M S Brown,R W Steel</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Christopher O Jaynes,R Matt Steele,Stephen B Webb,W Brent Seale</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,R Yang,M S Brown,W B Seales,H Fuchs</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,S Michael</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,R Yang,M S Brown</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,S Michael</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,S Michael</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,R Raskar,M S Brown</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,W Brent Seales</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,W Brent Seales</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M S Brown</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M S Brown,W B Seales</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M S Brown,R D Yang</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M S Brown,D Tsoi</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M S Brown,Y -C Tsoi</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M S Brown,W B Seales,K Kiernan,J Griffioen</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M S Brown,W B Seales</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M S Brown,W B Seales</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M S Brown,W B Seales</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M S Brown,W B Seales</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M S Brown,R D Yang</authors>
+		<label>2</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Ian Watson,Nick Filer</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Dieter Wissmann,Luo Xiao,Stefan Jablonski</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Dieter Wissmann,Luo Xiao,Stefan Jablonski</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Dieter Wissmann,Luo Xiao,Stefan Jablonski</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>M Brown</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>M Brown</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>M Brown</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>M Brown,N Filer</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Z Moosa,N Filer</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Gloria Dabiri,Maria Aretoulaki,Matthias Nitzsche</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Nick Filer</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>N Filer,Z Moosa,M Brown</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Alan Flett,Borys Omelayenko,Dieter Fensel,Ellen Schulten,Guy Botquin,Ying Ding</authors>
+		<label>3</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Robert Endre Tarjan</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>M Brown</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Robert Endre Tarjan</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Robert Endre Tarjan</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>M Brown</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>M Brown</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>M Brown</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>M Brown</authors>
+		<label>4</label>
+	</publication>
+	<publication>
+		<authors>M Brown,G&uuml,rsel Serpen,Jason Bechtel</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Samuel Joe Rogers</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>M Brown,D P Yeager,M E Brown,D A Stanley</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>G Bishop,W Bricken,F P Brooks,M Brown</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>M Brown,B Czejdo</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>M Brown,D Cordes</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>M Brown,S B Childs</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>M Brown,S Rogers</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Bart Childs</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>M Brown,David Cordes</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>M Brown,David Cordes</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Bogdan D Czejdo</authors>
+		<label>5</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Christophe G Giraud-Carrier,Rafal Bogacz</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Christophe G Giraud-Carrier,Rafal Bogacz</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Christophe G Giraud-Carrier,Rafal Bogacz</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Christophe G Giraud-Carrier,Rafal Bogacz</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,G Horn,A U Nicol,M W Brown</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Cho K,Kemp N,Noel J,Aggleton J,Brown M W,Bashir Z I</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,B McCaffery,K Cho,J P Aggleton,M W Brown,F Conquet,G L Collingridge,Z I Bashir</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,A U Nicol,M W Brown,G Horn</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,A U Nicol,M W Brown,G Horn</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,A U Nicol,M W Brown,G Horn</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,S D Vann,M W Brown,J T Erichson,J P Aggleton</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,S D Vann,M W Brown,J T Erichsen,J P Aggleton</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,H Wan,J P Aggleton,M W Brown</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Z Ziakopoulos,M W Brown,Z I Bashir</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Z Ziakopoulos,C W Tillett,M W Brown,Z I Bashir</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Rafal Bogacz</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,R Bogacz,M W Brown,C Giraud-Carrier</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,R Bogacz,M W Brown,C Giraud-Carrier</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M W Brown</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M W Brown</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M W Brown,Z I Bashir</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M W Brown,J P Aggleton</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,M W Brown</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,K Cho,J P Aggleton,M W Brown,Z I Bashir</authors>
+		<label>6</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Anders Krogh,David Haussler,I Saira Mian,Kimmen Sj&ouml,lander,Richard Hughey</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>M Brown,David Haussler,I Saira Mian,Rebecca C Underwood,Yasubumi Sakakibara</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>M Brown,David Haussler,I Saira Mian,Kimmen Sj&ouml,lander,Rebecca C Underwood,Richard Hughey,Yasubumi Sakakibara</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Anders Krogh,David Haussler,I Saira Mian,Kevin Karplus,Kimmen Sj&ouml,lander,Richard Hughey</authors>
+		<label>7</label>
+	</publication>
+	<publication>
+		<authors>M Brown</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Andrew E Johnson,Jason Leigh,Thomas A DeFanti</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Thomas A DeFanti</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Bruce H McCormick,Thomas A DeFanti</authors>
+		<label>8</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Andreas M Kogelnik,Douglas C Wallace,Marie T Lott,Shamkant B Navathe</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Andreas M Kogelnik,Douglas C Wallace,Marie T Lott,Shamkant B Navathe</authors>
+		<label>9</label>
+	</publication>
+	<publication>
+		<authors>M Brown,Andreas M Kogelnik,Douglas C Wallace,Marie T Lott,Shamkant B Navathe</authors>
+		<label>9</label>
+	</publication>
+</person>
