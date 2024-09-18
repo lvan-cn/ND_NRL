@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 numpy==1.16.1
 pandas==0.24.2
 sklearn==0.20.4
 networkx==1.11
-=======
-numpy==1.16.1
-pandas==0.24.2
-sklearn==0.20.4
-networkx==1.11
->>>>>>> 9e37e7440977948608642b5931c15b176d12aa21
+
