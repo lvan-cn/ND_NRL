@@ -25,5 +25,3 @@ Ensure the dataset path is configured correctly, then execute the following comm
 cd embedding_model
 python main.py
 ```
-
->>>>>>> 9e37e7440977948608642b5931c15b176d12aa21
